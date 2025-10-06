@@ -3,52 +3,43 @@ klong chen 'od gsal snying thig/ dkar chag/
 Тут представлений Лонгчен Осал, нінгтік нінгтіків [1], розділений по класам текстів:
 
 sngon 'gro dang gzhi'i chos/
-
-1) dkar chag: індекс
-2) sngon 'gro: структура
-3) dge bsngo: посвяти
-4) smon lam: молитви
-
-mchod pa'i cho ga/
-
-1) sngags kyi mchod pa: склади
-2) rdo rje gsung: мовлення
-3) khrus: очищення
-4) mchod pa: офіри
-5) bskang ba: наповнення
-6) sgrub thabs: садхани
-7) tshogs: бенкети
-8) lha: богиням
-9) lha srung: дхармапалам
-
-sgom pa dang lha'i sgrub pa/
-
-1) zhi khro: шитро
-2) tshe sgrub: довге життя
-3) bka' brgyad: Каг'є
-4) bla ma rnal'byor: гуру-йога
-5) nang gsang rnal byor: секретна гуру-йога
-6) dkyil 'khor: мандали
-
-rdzogs chen gyi nyams len/
-
-1) rdo rje'i glu: пісні
-2) rgyud: тантри
-3) khregs chod: трекчо
-4) thod rgal: тогал
-5) yang ti: янгті
-6) 'pho ba: пхова
-7) 'od gsal: ясне світло
-8) gtum mo: туммо
-9) bar do: бардо
-
+    1) dkar chag: індекс
+    2) sngon 'gro: структура
+    3) khrus: очищення
+    4) smon lam: молитви
+    5) dge bsngo: посвяти
 gzhung dang lta ba'i chos/
-
-1) dbu ma: Мадх'яміка
-2) chos mngon pa: Абхідхарма
-3) rnal 'byor spyod pa: Йогачара
-4) rnam thar: біографії
-5) lo rgyud: історії
+    1) dbu ma: Мадх'яміка
+    2) chos mngon pa: Абхідхарма
+    3) rnal 'byor spyod pa: Йогачара
+    4) rnam thar: біографії
+    5) lo rgyud: історії
+    6) rdo rje'i glu: пісні
+    7) rgyud: тантри
+mchod pa'i cho ga/
+    1) sngags kyi mchod pa: склади
+    2) rdo rje gsung: мовлення
+    3) bskang ba: наповнення
+    4) mchod pa: офіри
+    5) sgrub thabs: садхани
+    6) tshogs: бенкети
+    7) lha: богиням
+    8) lha srung: дхармапалам
+bskyed rim rdzogs rim sgom pa dang lha'i sgrub pa/
+    1) dkyil 'khor: мандали
+    2) bka' brgyad: Каг'є
+    3) zhi khro: шитро
+    4) bla ma rnal'byor: гуру-йога
+    5) nang gsang rnal byor: секретна гуру-йога
+    6) 'pho ba: пхова
+    7) 'od gsal: ясне світло
+    8) bar do: бардо
+    9) tshe sgrub: довге життя
+rdzogs chen gyi nyams len/
+    1) khregs chod: трекчо
+    2) thod rgal: тогал
+    3) yang ti: янгті
+    4) gtum mo: туммо
 ________________________________________________________
 [1] А саме: Віма Дзокчен Сангва Нінгтік, Кхандро Нінгтік, Лонгсал Нінгпо, Намчо,
     Лонгчен Нінгтік, Лонгчен Осал Кхандро Нінгтік.
