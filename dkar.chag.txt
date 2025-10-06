@@ -1,19 +1,20 @@
 klong chen 'od gsal snying thig/ dkar chag/
 
-Тут представлений Лонгчен Осал, нінгтік нінгтіків [1], розділений по класам текстів:
+Тут представлений Лонгчен Осал, нінгтік нінгтіків [1], розділений по класам текстів на 5 томів:
 1) попередні практики і фундаційна Дхарма;
 2) тексти і філософська Дхарма;
-3) розробка і завершення практик медитацій і божеств;
-4) ритуальні офіри і церемонії;
+3) ритуальні офіри і церемонії;
+4) розробка і завершення практик медитацій і божеств;
 5) практики остаточного довершення.
 
-sngon 'gro dang gzhi'i chos/
+Том 1: sngon 'gro dang gzhi'i chos/
     1) dkar chag: індекс
     2) sngon 'gro: структура
     3) khrus: очищення
     4) smon lam: молитви
     5) dge bsngo: посвяти
-gzhung dang lta ba'i chos/
+
+Том 2: gzhung dang lta ba'i chos/
     1) dbu ma: Мадх'яміка
     2) chos mngon pa: Абхідхарма
     3) rnal 'byor spyod pa: Йогачара
@@ -21,24 +22,27 @@ gzhung dang lta ba'i chos/
     5) lo rgyud: історії
     6) rdo rje'i glu: пісні
     7) rgyud: тантри
-bskyed rim rdzogs rim sgom pa dang lha'i sgrub pa/
+
+Том 3: mchod pa'i cho ga/
+    1) sngags kyi mchod pa: склади
+    2) rdo rje gsung: мовлення
+    3) bskang ba: наповнення
+    4) mchod pa: офіри
+    5) tshogs: бенкети
+    6) lha: богиням
+    7) lha srung: дхармапалам
+    8) dbang: повноваження
+
+Том 4: bskyed rim rdzogs rim sgom pa dang lha'i sgrub pa/
     1) dkyil 'khor: мандали
     2) bka' brgyad: Каг'є
     3) zhi khro: шитро
     4) bla ma rnal'byor: гуру-йога
     5) nang gsang rnal byor: секретна гуру-йога
     6) tshe sgrub: довге життя
-mchod pa'i cho ga/
-    1) sngags kyi mchod pa: склади
-    2) rdo rje gsung: мовлення
-    3) bskang ba: наповнення
-    4) mchod pa: офіри
-    5) sgrub thabs: садхани
-    6) tshogs: бенкети
-    7) lha: богиням
-    8) lha srung: дхармапалам
-    9) dbang: посвяти
-rdzogs chen gyi nyams len/
+    7) sgrub thabs: садхани
+
+Том 5: rdzogs chen gyi nyams len/
     1) khregs chod: трекчо
     2) thod rgal: тогал
     3) yang ti: янгті
