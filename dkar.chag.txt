@@ -1,6 +1,11 @@
 klong chen 'od gsal snying thig/ dkar chag/
 
 Тут представлений Лонгчен Осал, нінгтік нінгтіків [1], розділений по класам текстів:
+1) попередні практики і фундаційна Дхарма;
+2) тексти і філософська Дхарма;
+3) розробка і завершення практик медитацій і божеств;
+4) ритуальні офіри і церемонії;
+5) практики остаточного довершення.
 
 sngon 'gro dang gzhi'i chos/
     1) dkar chag: індекс
@@ -16,6 +21,13 @@ gzhung dang lta ba'i chos/
     5) lo rgyud: історії
     6) rdo rje'i glu: пісні
     7) rgyud: тантри
+bskyed rim rdzogs rim sgom pa dang lha'i sgrub pa/
+    1) dkyil 'khor: мандали
+    2) bka' brgyad: Каг'є
+    3) zhi khro: шитро
+    4) bla ma rnal'byor: гуру-йога
+    5) nang gsang rnal byor: секретна гуру-йога
+    6) tshe sgrub: довге життя
 mchod pa'i cho ga/
     1) sngags kyi mchod pa: склади
     2) rdo rje gsung: мовлення
@@ -25,21 +37,15 @@ mchod pa'i cho ga/
     6) tshogs: бенкети
     7) lha: богиням
     8) lha srung: дхармапалам
-bskyed rim rdzogs rim sgom pa dang lha'i sgrub pa/
-    1) dkyil 'khor: мандали
-    2) bka' brgyad: Каг'є
-    3) zhi khro: шитро
-    4) bla ma rnal'byor: гуру-йога
-    5) nang gsang rnal byor: секретна гуру-йога
-    6) 'pho ba: пхова
-    7) 'od gsal: ясне світло
-    8) bar do: бардо
-    9) tshe sgrub: довге життя
+    9) dbang: посвяти
 rdzogs chen gyi nyams len/
     1) khregs chod: трекчо
     2) thod rgal: тогал
     3) yang ti: янгті
     4) gtum mo: туммо
+    5) 'pho ba: пхова
+    6) 'od gsal: ясне світло
+    7) bar do: бардо
 ________________________________________________________
 [1] А саме: Віма Дзокчен Сангва Нінгтік, Кхандро Нінгтік, Лонгсал Нінгпо, Намчо,
     Лонгчен Нінгтік, Лонгчен Осал Кхандро Нінгтік.
