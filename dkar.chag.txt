@@ -14,16 +14,16 @@ klong chen 'od gsal snying thig/ dkar chag/
     4) khrus: очищення
     5) smon lam: молитви
     6) dge bsngo: посвяти
+    7) rnam thar: біографії
+    8) lo rgyud: історії
 
 Том 2: gzhung dang lta ba'i chos/
     1) dbu ma: Мадх'яміка
     2) chos mngon pa: Абхідхарма
     3) rnal 'byor spyod pa: Йогачара
-    4) rnam thar: біографії
-    5) lo rgyud: історії
-    6) rdo rje'i glu: пісні
-    7) rgyud: тантри
-    8) tshad ma: логіка
+    4) rdo rje'i glu: пісні
+    5) rgyud: тантри
+    6) tshad ma: логіка
 
 Том 3: mchod pa'i cho ga/
     1) sngags kyi mchod pa: склади
@@ -40,8 +40,8 @@ klong chen 'od gsal snying thig/ dkar chag/
     1) dkyil 'khor: мандали
     2) bka' brgyad: Каг'є
     3) zhi khro: шитро
-    4) bla ma rnal'byor: гуру-йога
-    5) nang gsang rnal byor: секретна гуру-йога
+    4) bla ma rnal 'byor: гуру-йога
+    5) nang gsang rnal 'byor: секретна гуру-йога
     6) tshe sgrub: довге життя
     7) sgrub thabs: садхани
     8) chod: чод
