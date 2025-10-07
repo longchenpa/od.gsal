@@ -1,60 +1,61 @@
 klong chen 'od gsal snying thig/ dkar chag/
 
 Тут представлений Лонгчен Осал, нінгтік нінгтіків [1], розділений по класам текстів на 5 томів:
-1) попередні практики і фундаційна Дхарма;
-2) тексти і філософська Дхарма;
-3) ритуальні офіри і церемонії;
-4) розробка і завершення практик медитацій і божеств;
-5) практики остаточного довершення.
+I) попередні практики і фундаційна Дхарма;
+II) тексти і філософська Дхарма;
+III) ритуальні офіри і церемонії;
+IV) розробка і завершення практик медитацій і божеств;
+V) практики остаточного довершення.
 
-Том 1: sngon 'gro dang gzhi'i chos/
-    1) dkar chag: індекс
-    2) sngon 'gro: структура
-    3) sems phyogs: тренування
-    4) khrus: очищення
-    5) smon lam: молитви
-    6) dge bsngo: посвяти
-    7) rnam thar: біографії
-    8) lo rgyud: історії
+I) sngon 'gro dang gzhi'i chos/
+1) dkar chag: індекс
+2) sngon 'gro: структура
+3) sems phyogs: тренування
+4) khrus: очищення
+5) smon lam: молитви
+6) dge bsngo: посвяти
+7) rnam thar: біографії
+8) lo rgyud: історії
 
-Том 2: gzhung dang lta ba'i chos/
-    1) dbu ma: Мадх'яміка
-    2) chos mngon pa: Абхідхарма
-    3) rnal 'byor spyod pa: Йогачара
-    4) rdo rje'i glu: пісні
-    5) rgyud: тантри
-    6) tshad ma: логіка
+II) gzhung dang lta ba'i chos/
+1) dbu ma: Мадх'яміка
+2) chos mngon pa: Абхідхарма
+3) rnal 'byor spyod pa: Йогачара
+4) rdo rje'i glu: пісні
+5) rgyud: тантри
+6) tshad ma: логіка
 
-Том 3: mchod pa'i cho ga/
-    1) sngags kyi mchod pa: склади
-    2) rdo rje gsung: мовлення
-    3) bskang ba: наповнення
-    4) mchod pa: офіри
-    5) sbyin sreg: диму
-    6) tshogs: бенкети
-    7) lha: богиням
-    8) lha srung: дхармапалам
-    9) phyi bla ma rnal 'byor: зовнішня гуру-йога
+III) mchod pa'i cho ga/
+1) sngags kyi mchod pa: склади
+2) rdo rje gsung: мовлення
+3) bskang ba: наповнення
+4) mchod pa: офіри
+5) sbyin sreg: диму
+6) tshogs: бенкети
+7) lha: богиням
+8) lha srung: дхармапалам
+9) phyi bla ma rnal 'byor: зовнішня гуру-йога
 
-Том 4: bskyed rim rdzogs rim sgom pa dang lha'i sgrub pa/
-    1) dkyil 'khor: мандали
-    2) bka' brgyad: Каг'є
-    3) zhi khro: шитро
-    4) bla ma rnal 'byor: гуру-йога
-    5) nang gsang rnal 'byor: секретна гуру-йога
-    6) tshe sgrub: довге життя
-    7) sgrub thabs: садхани
-    8) chod: чод
-    9) dbang: повноваження
+IV) bskyed rim rdzogs rim sgom pa dang lha'i sgrub pa/
+1) dkyil 'khor: мандали
+2) bka' brgyad: Каг'є
+3) zhi khro: шитро
+4) bla ma rnal 'byor: гуру-йога
+5) nang gsang rnal 'byor: секретна гуру-йога
+6) tshe sgrub: довге життя
+7) sgrub thabs: садхани
+8) chod: чод
+9) dbang: повноваження
 
-Том 5: rdzogs chen gyi nyams len/
-    1) khregs chod: трекчо
-    2) thod rgal: тогал
-    3) yang ti: янгті
-    4) gtum mo: туммо
-    5) 'pho ba: пхова
-    6) 'od gsal: ясне світло
-    7) bar do: бардо
+V) rdzogs chen gyi nyams len/
+1) khregs chod: трекчо
+2) thod rgal: тогал
+3) yang ti: янгті
+4) gtum mo: туммо
+5) 'pho ba: пхова
+6) 'od gsal: ясне світло
+7) bar do: бардо
+
 ________________________________________________________
 [1] А саме: Віма Дзокчен Сангва Нінгтік, Кхандро Нінгтік, Лонгсал Нінгпо, Намчо,
     Лонгчен Нінгтік, Лонгчен Осал Кхандро Нінгтік.
@@ -103,4 +104,31 @@ klong chen 'od gsal snying thig/ tshogs/
 Це об'єднана лінія Сатер, Гонтер і Дагнанг, а також терма Джікме
 Лінгпи і Намкая Норбу. Кожен, хто йтиме цим шляхом зі вчителем в
 серці, здобуде перший ключ розуму. САМАЯ. Індекс: dkar.chag.txt.
+
+Том 1: Попередні практики та фундаментальна Дхарма (sngon 'gro dang gzhi'i chos).
+Ця група включає покажчики (dkar chag), попередні вправи (sngon 'gro),
+тренування розуму (sems phyogs), очищення (khrus), молитви устремління (smon lam),
+присвяти (dge bsnyen), біографії (rnam thar) та історії (lo rgius).
+Вона встановлює етичні основи, відображаючи практики, необхідні для очищення від затьмарень.
+
+Том 2: Філософські тексти та погляди (gzhung dang lta ba'i chos).
+Охоплюючи Мадх'ямаку (dbu ma), Абхідхарму (chos mngon pa), Йогачару (rnal 'byor spyod pa),
+ваджрні пісні (rdo rje'i glu), тантри (rgyud) та логіку (tshad ma),
+цей том забезпечує інтелектуальне підґрунтя. Він узгоджується з інтеграцією поглядів сутри та тантри.
+
+Том 3: Ритуальні підношення та церемонії (mchod pa'i cho ga).
+Охоплює підношення кореневих складів (sngags kyi mchod pa), ваджрне мовлення (rdo rje gsung),
+наповнення (bskang ba), підношення (mchod pa), вогняні ритуали (sbyin sreg), бенкети (tshogs),
+практики божеств (lha), захисників (lha srung), та зовнішня гуру-йога.
+Це передує медитації для розвитку відданості для акценту на ритуалах.
+
+Том 4: Практики стадій зародження та завершення (bskyed rim rdzogs rim sgom pa dang lha'i sgrub pa).
+Включаючи мандали (dkyil 'khor), Kagyé (bka' brgyad), божества миру й гніву (zhi khro),
+гуру-йогу (bla ma rnal 'byor), таємну гуру-йогу (nang gsang rnal 'byor),
+довголіття (tshe sgrub), садхани (sgrub thabs), Чод (chod). Створення божества.
+
+Том 5: Практики Дзогчен (rdzogs chen gyi nyams len).
+Участь Трекчо (khregs chod), Tögal (thod rgal),
+Yangti (yang ti), Tummo (gtum mo), Phova ('pho ba),
+Ясного світла ('od gsal) і Бардо (bar do). Реалізація.
 
