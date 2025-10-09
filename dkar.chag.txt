@@ -17,9 +17,10 @@ V) практики остаточного довершення.
 | Лонгчен Осал поєднує мінімалізм циклів Намчо і Лонгсал
 | проте не відкидає академічної сумісності зі старими нінгтіками
 | і повними пізнішими циклами такими як Лонгчен Нінгтік чи Кунсанг Гонпа Кунду.
-| Лонгчен Осал узгоджується з традицією Дзокчен Кама, де замість коментарів на сутри
-| розглядаються коментарі на тантри, як це відбувається в Лонгсал циклі Намкая Норбу,
-| а також даються коментарі на поступові Абхідхарму, Мадх'яміку і Йогачару.
+| Лонгчен Осал узгоджується з традицією Дзокчен Кама, де крім коментарів на сутри
+| розглядаються також коментарі на тантри і тантричні практики,
+| як це відбувається в Лонгсал циклі Намкая Норбу, а також даються коментарі
+| на поступові Абхідхарму, Мадх'яміку і Йогачару.
 
 I) sngon 'gro dang gzhi'i chos/ Том 1: Попередні практики та фундаментальна Дхарма.
 
@@ -144,42 +145,34 @@ V) rdzogs chen/ Том 5: Практики остаточного доверше
 07) /thod rgal/ тогал
 
 | Всі тексти передали мені мої вчителі. Так я, Лонгчен Осал, чув особисто.
-| Чудові звуки Дакіні від древніх терма Нінгмапи:
+| Чудові звуки Дакіні від древніх терма Нінгмапи,
+| через Лонгченпу і аж до наших днів Норбупа, --- це мій сердечний Нінгтік.
 
-bi ma snying thig/ sngon 'gro/
-mkha' 'gro snying thig/ tsche sgrub/
-klong gsal snying po/ 'jam dpal dbyang/
-gnam chos/ zhi khro/
-
-| через Лонгченпу:
-
-klong chen snying thig/ dge bsngo/
-klong chen snying thig/ dkyil 'khor/
-klong chen snying thig/ nang gsang rnal 'byor/
-klong chen snying thig/ rig 'dzin 'dus pa/
-klong chen snying thig/ rdo rje sems dpa'/
-klong chen snying thig/ tshogs/
-
-| і аж до наших днів Норбупа:
-
-klong chen 'od gsal mkha' 'gro snying thig/ bla ma rnal 'byor/
-klong chen 'od gsal mkan' 'gro snying thig/ sa bdag dang 'jig rten pa'i srung ma/
-klong chen 'od gsal mkan' 'gro snying thig/ dkyil 'khor/
-klong chen 'od gsal mkha' 'gro snying thig/ sras mo go ma de byi/
-klong chen 'od gsal mkan' 'gro snying thig/ rdo rje rmongs pa/
-klong chen 'od gsal mkan' 'gro snying thig/ ral pa gcig ma/
-klong chen 'od gsal mkan' 'gro snying thig/ gza' bdud/
-klong chen 'od gsal mkan' 'gro snying thig/ mgon po nag po/
-klong chen 'od gsal mkan' 'gro snying thig/ rdo rje'i glu/
-klong chen 'od gsal mkha' 'gri snying thig/ tshe sgrub rdo rje sogs thig gya/
-klong chen 'od gsal mkha' 'gro snying thig/ tshogs/
-
-| це мій сердечний Нінгтік:
-
-klong chen 'od gsal snying thig/ dkar chag/
-klong chen 'od gsal snying thig/ sngags kyi mchod pa/
-klong chen 'od gsal snying thig/ sngon 'gro/
-klong chen 'od gsal snying thig/ tshogs/
+01) bi ma snying thig/ sngon 'gro/
+02) mkha' 'gro snying thig/ tsche sgrub/
+03) klong gsal snying po/ 'jam dpal dbyang/
+04) gnam chos/ zhi khro/
+05) klong chen snying thig/ dge bsngo/
+06) klong chen snying thig/ dkyil 'khor/
+07) klong chen snying thig/ nang gsang rnal 'byor/
+08) klong chen snying thig/ rig 'dzin 'dus pa/
+09) klong chen snying thig/ rdo rje sems dpa'/
+10) klong chen snying thig/ tshogs/
+11) klong chen 'od gsal mkha' 'gro snying thig/ bla ma rnal 'byor/
+12) klong chen 'od gsal mkan' 'gro snying thig/ sa bdag dang 'jig rten pa'i srung ma/
+13) klong chen 'od gsal mkan' 'gro snying thig/ dkyil 'khor/
+14) klong chen 'od gsal mkha' 'gro snying thig/ sras mo go ma de byi/
+15) klong chen 'od gsal mkan' 'gro snying thig/ rdo rje rmongs pa/
+16) klong chen 'od gsal mkan' 'gro snying thig/ ral pa gcig ma/
+17) klong chen 'od gsal mkan' 'gro snying thig/ gza' bdud/
+18) klong chen 'od gsal mkan' 'gro snying thig/ mgon po nag po/
+19) klong chen 'od gsal mkan' 'gro snying thig/ rdo rje'i glu/
+20) klong chen 'od gsal mkha' 'gri snying thig/ tshe sgrub rdo rje sogs thig gya/
+21) klong chen 'od gsal mkha' 'gro snying thig/ tshogs/
+22) klong chen 'od gsal snying thig/ dkar chag/
+23) klong chen 'od gsal snying thig/ sngags kyi mchod pa/
+24) klong chen 'od gsal snying thig/ sngon 'gro/
+25) klong chen 'od gsal snying thig/ tshogs/
 
 | Тексти цієї лінії відтворені по пам'яті і складені в день
 | каяття і подвійного вогню на затемнені сонця в рік дерев'яної змії.
