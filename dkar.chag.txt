@@ -72,14 +72,13 @@ II) gzhung dang lta ba'i chos/ Том 2: Філософські тексти т�
 
 III) bskyed rim mchod pa'i cho ga/ Том 3: Ритуальні підношення та церемонії стадії Зародження.
 
-| Цей том охоплює ритуальні практики Махайоги, спрямовані на
+| Цей клас текстів охоплює ритуальні практики Махайоги, спрямовані на
 | розвиток відданості та очищення свідомості через офіри,
 | мантри та візуалізації божеств. Ці практики спираються на
 | вчення третього оберту Кола Дхарми (Аватамсака,
 | Шрімаладевісінханада, Ланкаватара сутри), зокрема на філософію
-| Йогачари (Чіттаматра), де божества є проявами просвітленої свідомості.
-| Ці практики належать до третього оберта Кола Дхарми, реалізуючи
-| теорію Чіттаматри через тантричні методи Ваджраяни.
+| Йогачари (Чіттаматра), де божества є проявами просвітленої свідомості
+| і використовують теорію Чіттаматри і тантричні методи Ваджраяни.
 
 Ритуальна підготовка:
 
@@ -87,7 +86,14 @@ III) bskyed rim mchod pa'i cho ga/ Том 3: Ритуальні підношен
 02) /dbang/ повноваження
 03) /bskang ba/ наповнення
 04) /mchod pa/ офіри
-05) //sngags/ символів
+05) //sngags/ букв
+
+| Клас текстів Офіри Букв (sngags kyi mchod pa) це набори мантр без візуалізації
+| або тадроли як 25 тіглє Самантабхадри (klong chen nyer lnga'i gdams pa mchan can)
+| в Лонгсалі чи ключ-мантри Дакіні (sngags kyi lde mig) або тантри звільнення через
+| носіння (btags grol rgyud drug) з Кхандро Нінгтік. Сюди також входять
+| мантри ваджрного мовлення або посібники з рецитації.
+
 06) //dkyil 'khor/ мандал
 
 Накопичення заслуг:
@@ -112,7 +118,7 @@ III) bskyed rim mchod pa'i cho ga/ Том 3: Ритуальні підношен
 
 IV) rdzogs rim/ Том 4: Практики стадій завершення
 
-| Цей том охоплює практики Ануйоги, включаючи роботу з
+| Цей клас текстів охоплює практики Ануйоги, включаючи роботу з
 | тонкими енергіями (rdzogs rim), спрямовані на реалізацію
 | просвітленої природи свідомості.
 
@@ -128,7 +134,7 @@ V) rdzogs chen/ Том 5: Практики остаточного доверше
 
 Аті-йога:
 
-| Цей том охоплює практики Атійоги,
+| Цей клас текстів охоплює практики Атійоги,
 | спрямовані на безпосереднє пізнання природи розуму
 | та її проявів через практики Трекчо і Тогал. Ці методи є кульмінацією
 | всіх обертів Кола Дхарми, синтезуючи етичні основи (перший поворот),
@@ -147,31 +153,39 @@ V) rdzogs chen/ Том 5: Практики остаточного доверше
 | Чудові звуки Дакіні від древніх терма Нінгмапи,
 | через Лонгченпу і аж до наших днів Норбупа, --- це мій сердечний Нінгтік.
 
-01) bi ma snying thig/ sngon 'gro/
-02) mkha' 'gro snying thig/ tsche sgrub/
-03) klong gsal snying po/ 'jam dpal dbyang/
-04) gnam chos/ zhi khro/
-05) klong chen snying thig/ dge bsngo/
-06) klong chen snying thig/ dkyil 'khor/
-07) klong chen snying thig/ nang gsang rnal 'byor/
-08) klong chen snying thig/ rig 'dzin 'dus pa/
-09) klong chen snying thig/ rdo rje sems dpa'/
-10) klong chen snying thig/ tshogs/
-11) klong chen 'od gsal mkha' 'gro snying thig/ bla ma rnal 'byor/
-12) klong chen 'od gsal mkan' 'gro snying thig/ sa bdag dang 'jig rten pa'i srung ma/
-13) klong chen 'od gsal mkan' 'gro snying thig/ dkyil 'khor/
-14) klong chen 'od gsal mkha' 'gro snying thig/ sras mo go ma de byi/
-15) klong chen 'od gsal mkan' 'gro snying thig/ rdo rje rmongs pa/
-16) klong chen 'od gsal mkan' 'gro snying thig/ ral pa gcig ma/
-17) klong chen 'od gsal mkan' 'gro snying thig/ gza' bdud/
-18) klong chen 'od gsal mkan' 'gro snying thig/ mgon po nag po/
-19) klong chen 'od gsal mkan' 'gro snying thig/ rdo rje'i glu/
-20) klong chen 'od gsal mkha' 'gri snying thig/ tshe sgrub rdo rje sogs thig gya/
-21) klong chen 'od gsal mkha' 'gro snying thig/ tshogs/
-22) klong chen 'od gsal snying thig/ dkar chag/
-23) klong chen 'od gsal snying thig/ sngags kyi mchod pa/
-24) klong chen 'od gsal snying thig/ sngon 'gro/
-25) klong chen 'od gsal snying thig/ tshogs/
+bi ma snying thig/ sngon 'gro/
+mkha' 'gro snying thig/ tsche sgrub/
+mkha' 'gro snying thig/ btags grol rgyud drug/
+mkha' 'gro snying thig/ sngags kyi lde mig/
+klong gsal snying po/ 'jam dpal dbyang/
+gnam chos/ zhi khro/
+
+klong chen snying thig/ dge bsngo/
+klong chen snying thig/ dkyil 'khor/
+klong chen snying thig/ nang gsang rnal 'byor/
+klong chen snying thig/ rig 'dzin 'dus pa/
+klong chen snying thig/ rdo rje sems dpa'/
+klong chen snying thig/ tshogs/
+klong chen snying thig/ thig le'i rgya can gyi bsnyen yig/
+
+klong chen 'od gsal mkha' 'gro snying thig/ bla ma rnal 'byor/
+klong chen 'od gsal mkan' 'gro snying thig/ sa bdag dang 'jig rten pa'i srung ma/
+klong chen 'od gsal mkan' 'gro snying thig/ dkyil 'khor/
+klong chen 'od gsal mkha' 'gro snying thig/ sras mo go ma de byi/
+klong chen 'od gsal mkan' 'gro snying thig/ rdo rje rmongs pa/
+klong chen 'od gsal mkan' 'gro snying thig/ ral pa gcig ma/
+klong chen 'od gsal mkan' 'gro snying thig/ gza' bdud/
+klong chen 'od gsal mkan' 'gro snying thig/ mgon po nag po/
+klong chen 'od gsal mkan' 'gro snying thig/ rdo rje'i glu/
+klong chen 'od gsal mkha' 'gri snying thig/ tshe sgrub rdo rje sogs thig gya/
+klong chen 'od gsal mkha' 'gro snying thig/ tshogs/
+klong chen 'od gsal mkha' 'gro snying thig/ klong chen nyer lnga'i gdams pa mchan can/
+klong chen 'od gsal mkha' 'gro snying thig/ sems sde'i rnal 'byor bzhi/
+
+klong chen 'od gsal snying thig/ dkar chag/
+klong chen 'od gsal snying thig/ sngags kyi mchod pa/
+klong chen 'od gsal snying thig/ sngon 'gro/
+klong chen 'od gsal snying thig/ tshogs/
 
 | Тексти цієї лінії відтворені по пам'яті і складені в день
 | каяття і подвійного вогню на затемнені сонця в рік дерев'яної змії.
