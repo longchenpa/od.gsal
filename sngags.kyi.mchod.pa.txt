@@ -1,6 +1,6 @@
 klong chen 'od gsal snying thig/ rdo rje gsung/
 
-rgya gar gyi skad/
+/rgya gar gyi skad/
 
 A    AH   AM   BA   BHA  CA   :    :
 DA   DHA  DE   DHE  DHI  DU   DHU  :
@@ -16,29 +16,19 @@ SA   SHA  SHRI SI   SPA  STA  SU   SVA
 TA   TE   THA  TMA  TSA  TVA  TU   :
 VA   YAM  YA   :    :    :    :    :
 
-o rgyan gyi skad/
+/o rgyan gyi skad/
 
 BE   BHE  BHUN BRUM CI   DZA  GHU  :
 GAR  HI   JNA  :    KETA KI   KO   :
 KUN  LEM  NRI  SIR  NTA  PRE  SHU  YE
 
-mkha' 'gro'i skad/
+/mkha' 'gro'i skad/
 
 BAM  HRI  HRIH HRIM HUNG TRAM PHEM PHEIM
 
-klong chen 'od gsal snying thig/ sngags kyi mchod pa/
+klong chen 'od gsal snying thig/ sa bon bi ja/
 
-bi ja/ насіння
-sa bon/ насіння
-yi ge/ літери
-gung bya/ склади
-ngag kyi yi ge/ літери Санскриту
-rang byung yi ge/ самовиниклі літери Удіяни
-mkha' 'gro'i gung bya/ склади Дакіні
-
-bi ja/ Бі-джа символи
-
-Санскрит (rgya gar gyi skad)
+/rgya gar gyi skad/ ngag kyi yi ge Санскрит
 
 Простір:
 KA: Фундаментальний простір Акаша.
@@ -142,7 +132,7 @@ SVA: Самість.
 TMA: Душа.
 TVA: Індивідуальність.
 
-Уддіяна (o rgyan gyi skad)
+/o rgyan gyi skad/ rang byung yi ge/ Уддіяна
 
 BE: Благословення.
 BHE: Благословенна трансорфмація.
@@ -166,7 +156,7 @@ SHU: Мир.
 SIR: Сяйво.
 YE: Вічність.
 
-Дакіні (mkha' 'gro'i skad)
+/mkha' 'gro'i skad/ mkha' 'gro'i gung bya/ Дакіні
 
 BAM: Милосердя.
 HRI: Співчуття.
@@ -177,8 +167,9 @@ PHEM: Руйнування.
 PHEIM: Очищення.
 TRAM: Насіння Ратнасабхави.
 
-Просвітлення
+klong chen 'od gsal snying thig/ sngags kyi mchod pa/
 
+Просвітлення:
 DHARMA: Вогнестійкі істини основи.
 DHATU: Захищена нерушима основа.
 BODHI: Пробудження.
@@ -192,7 +183,6 @@ VAJRA: Нерушима природа.
 JNANA: Знання.
 
 Гуру, Деви і Дакіні:
-
 RATNA: Дорогоцінність, три коштовності.
 MAHA: Великий, величезний, універсальний.
 SARVA: Всі, тотальність.
