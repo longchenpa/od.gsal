@@ -21,7 +21,7 @@ MA     SMI    SA     GU     LI     :      TA     YA     RA     :      :      :  
 GU     RA     GU     :      RA     :      SA     GA     KA     RNA    LAM    :      :
 NA     RA     NA     :      RA     :      I      ТА     PA     TA     LAM    :      :
 СІ     РНА    СІ     :      RNA    :      BE     SA     RA     SPA    LAM    :      :
-BHU    NDA    BHU    :      NDA    :      CHI    SHA    SA     KYE    LAM    :      :
+BHUN   DHA    BHUN   :      DHA    :      CHI    SHA    SA     KYE    LAM    :      :
 SА     SА     :      :      :      :      :      :      :      :      :      :      :
 RІ     RІ     :      :      :      :      :      :      :      :      :      :      :
 LI     LI     :      :      :      :      :      :      :      :      :      :      :
