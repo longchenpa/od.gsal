@@ -6,7 +6,7 @@ A    AH   AM   BA   BAM  BHA  CA   :
 DA   DHA  DE   DHE  DHI  DU   DHU  :
 E    GA   GHA  GHAM :    :    :    :
 HA   HAM  HUM  I    JA   JRA  :    :
-KA   KHA  KHE  KSHI KTA  K    :    :
+KA   KHA  KHE  KSHI KTA  KU   :    :
 LA   LAM  LI   LIM  :    :    :    :
 MA   ME   MI   MO   :    :    :    :
 NA   NAM  NDA  NYA  OM   :    :    :
@@ -25,6 +25,22 @@ KUN  LEM  NRI  SIR  NTA  PRE  SHU  YE
 /mkha' 'gro'i skad/
 
 BAM  HRI  HRIH HRIM HUNG TRAM PHEM PHEIM
+
+klong chen snying thig/ rdo rje gsung/
+
+/bod gyi skad/
+
+A
+
+KA   KHA  GA   GHA  ṄA
+CA   CHA  JA   JHA  ÑA
+ṬA   ṬHA  ḌA   ḌHA  ṆA
+TA   THA  DA   DHA  NA
+PA   PHA  BA   BHA  MA
+YA   VA   RA   LA   :
+ŚA   ṢA   SA   HA   KṢA
+I    Ī    U    Ū    :
+E    AI   O    AU   :
 
 klong chen 'od gsal snying thig/ sa bon bi ja/
 
@@ -121,7 +137,7 @@ HUM: Трансформація.
 SVA: Самість.
 NDA: Завершення.
 
-/o rgyan gyi skad/ rang byung yi ge/ Уддіяна
+/o rgyan gyi skad/ rang byung yi ge/ Удіяна
 
 KI: Ясність.
 KUN: Універсальність.
@@ -291,13 +307,82 @@ sa ma nyi wa dhe ra pa
 
 vajra sattva di dho me
 ghe ba su gharma ma yai
-dharmā pa ti sa ghu li:
-rasmi sa mā khargad tshi:
-ru pa sa mi mi ta lam:
+dharmā pa ti sa ghu li
+rasmi sa mā khargad tshi
+ru pa sa mi mi ta lam
 
 nja tik bha yam ka li sa
 gha tshi pa la sa i tam
 karma e ka ma nu sā
 san tri ma ma karma ta
 nja la khe bha ki li sa
+
+rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ nyi lza kha sbyor/
+
+e ma ke ri ka ri
+mas ta bha li bha li
+sa mi ta su ru su ru
+kun dha li ma su ma su
+e ka ras su ti bhas ta ye
+tsa ki ra bhu li ta lce ye
+sa mun ta tsar ya su gha ye
+bhi ting la sa na
+bha ghu li ye
+sa ta ri dhu ka ni
+ma ta ri bhe ta na
+pa ra li hi dhi sa na
+ma khar te ka la na
+tsa ra di pa
+sur ya gha ta ra e
+pa sha na
+ra na bhi ti sa ghu ti pa ya
+ghu ra ghu ra pa ga
+kha ra na lam
+na ra na ra
+i tha ra pa tra lam
+sir na sir na
+bhe sa bhe sa
+ras sam lam
+bung dha bung dha
+tshi sha sa ghe lam
+sa sa ri ri
+le khe
+i i
+ma ma
+ri ri
+la dha a
+om a hum
+smas ta bha sa li
+ma si ta
+su ru su ru
+kun dhi li ma su
+i ka ri li bha ta ye
+tsa ka bhu li ta lca ye
+sa mud ta tsar ya su gha ye
+bhi ti sa na bha ghu ye
+ke re dha ka ni
+dha ka ma man so ri
+ta na sa ra
+bha li dhi
+sa ni kha ra ta ke la na
+sam bhud ra ta
+e ka tsa ra pa ti
+ta bha sur ya gha ta a
+ma na sa pa ra bhi ho
+ti ghu ru la
+ma smin sa
+ghu ti la
+ta ya ma ghu ra ghu ra
+rlang gha kha sa ra na lam
+na ra na ra lam
+i tha pa ta lam
+i tha ra sa ta mam
+bir na bhe sa ra lam
+sa ke lam
+sa sa
+ri ri
+li li
+a a
+ma ma
+ra ra
 
