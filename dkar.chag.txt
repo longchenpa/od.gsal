@@ -1,6 +1,6 @@
 klong chen 'od gsal snying thig/ dkar chag/ Лонгчен Осал: Коментар на Зміст
 
-| Тут представлений Лонгчен Осал, нінгтік нінгтіків.
+| Тут представлений Лонгчен Осал, нінгтік нігтіків.
 | А саме: Дзокчен Сангва Нінгтік, Кхандро Нінгтік, Лонгсал Нінгпо,
 | Намчо, Лонгчен Нінгтік, Кунзанг Гонпа Кунду, Лонгчен Осал Кхандро Нінгтік.
 | Розділений по 5 класам текстів, кожен з який варто вивчати після попередніх.
@@ -372,49 +372,51 @@ klong chen 'od gsal snying thig/ tshogs/
 | Лінгпи і Намкая Норбу. Кожен, хто йтиме цим шляхом зі вчителем в
 | серці, здобуде перший ключ розуму. САМАЯ.
 
-I)   /sngon 'gro dang gzhi'i chos/ Клас 1: Попередні практики і фундаментальна Дхарма
-01)  //dkar chag/ індекси
-02)  //smon lam/ молитви
-03)  //sngon 'gro/ попередні практики
-04)  //khrus/ очищення
-05)  //dge bsngo/ посвяти
-06)  //rnam thar/ біографії
-07)  //lo rgyud/ історії
-08)  //sems phyogs/ тренування
-II)  /gzhung dang lta ba'i chos/ Клас 2: Тексти і філософська Дхарма
-01)  //chos mngon pa/ Абхідхарма (I)
-02)  //dbu ma/ Мадх'яміка (II)
-03)  //rnal 'byor spyod pa/ Йогачара (III)
-04)  //tshad ma/ логіки
-05)  //rgyud/ тантри
-06)  ///rdo rje'i glu/ пісні
-07)  //pha rol tu phyin pa/ параміти
+Директорія Архіву TAR:
+
+I) /sngon 'gro dang gzhi'i chos/ Клас 1: Попередні практики і фундаментальна Дхарма
+1) //dkar chag/ індекси
+2) //smon lam/ молитви
+3) //sngon 'gro/ попередні практики
+4) //khrus/ очищення
+5) //dge bsngo/ посвяти
+6) //rnam thar/ біографії
+7) //lo rgyud/ історії
+8) //sems phyogs/ тренування
+II) /gzhung dang lta ba'i chos/ Клас 2: Тексти і філософська Дхарма
+1) //chos mngon pa/ Абхідхарма (I)
+2) //dbu ma/ Мадх'яміка (II)
+3) //rnal 'byor spyod pa/ Йогачара (III)
+4) //tshad ma/ логіки
+5) //rgyud/ тантри
+6) ///rdo rje'i glu/ пісні
+7) //pha rol tu phyin pa/ параміти
 III) /bskyed rim mchod pa'i cho ga/ Клас 3: Ритуальні підношення та церемонії стадії Зародження
-01)  //dbang/ повноваження
-02)  //bskang ba/ наповнення
-03)  //mchod pa/ офіри
-04)  ///sngags/ мантри
-05)  ///dkyil 'khor/ мандали
-06)  ///tshogs/ бенкети
-07)  ///chod/ чод
-08)  ///sbyin sreg/ диму
-09)  //sgrub thabs/ садхани
-10)  ///lha dand lha srung/ деви і дхармапали
-11)  ///bka' brgyad/ Каг'є
-12)  ///zhi khro/ шитро
-13)  ///tshe sgrub/ довге життя
-16)  //phyi bla ma rnal 'byor/ зовнішня гуру-йога
-17)  //bla ma rnal 'byor/ внутрішня гуру-йога
-IV)  /rdzogs rim/ Клас 4: Практики стадії завершення
-01)  //'pho ba/ пхова
-02)  //gtum mo/ туммо
-03)  //rtsa rlung/ цалунг
-04)  //nang gsang rnal 'byor/ секретна гуру-йога
-V)   /rdzogs chen gyi nyams len/ Клас 5: Практики остаточного довершення
-01)  //sems sde'i rnal 'byor bzhi/ чотири йоги
-02)  //khregs chod/ трекчо
-03)  //'od gsal/ ясне світло
-04)  //bar do/ бардо
-05)  //yang ti/ янгті
-06)  //thod rgal/ тогал
+1) //dbang/ повноваження
+2) //bskang ba/ наповнення
+3) //mchod pa/ офіри
+4) ///sngags/ мантри
+5) ///dkyil 'khor/ мандали
+6) ///tshogs/ бенкети
+7) ///chod/ чод
+8) ///sbyin sreg/ диму
+9) //sgrub thabs/ садхани
+10) ///lha dand lha srung/ деви і дхармапали
+11) ///bka' brgyad/ Каг'є
+12) ///zhi khro/ шитро
+13) ///tshe sgrub/ довге життя
+16) //phyi bla ma rnal 'byor/ зовнішня гуру-йога
+17) //bla ma rnal 'byor/ внутрішня гуру-йога
+IV) /rdzogs rim/ Клас 4: Практики стадії завершення
+1) //'pho ba/ пхова
+2) //gtum mo/ туммо
+3) //rtsa rlung/ цалунг
+4) //nang gsang rnal 'byor/ секретна гуру-йога
+V) /rdzogs chen gyi nyams len/ Клас 5: Практики остаточного довершення
+1) //sems sde'i rnal 'byor bzhi/ чотири йоги
+2) //khregs chod/ трекчо
+3) //'od gsal/ ясне світло
+4) //bar do/ бардо
+5) //yang ti/ янгті
+6) //thod rgal/ тогал
 
