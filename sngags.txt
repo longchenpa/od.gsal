@@ -1,4 +1,4 @@
-mkha' 'gro snying thig/ mkha' 'gro sngags kyi lde mig/ Ключ-мантри Дакіні
+@#/_/mkha' 'gro snying thig/ mkha' 'gro sngags kyi lde mig/ Ключ-мантри Дакіні
 
 OM A HUM HI MA HA RI NI SA RA TSA HRI YA HUM DZA
 OM HA RI NI SA HUM — Це збирає і накопичує багатство
@@ -14,7 +14,7 @@ HA RI NI SA PU TRA SI RI BRU NI RAKSHA RAKSHA LAM RUNG NI - Щоб оживит�
 HA RI NI SA CHOGA KUN ZLOG ZLOG - Щоб відбити всі перешкоди
 TRI U TSA TA YA PHAT - Для відсічі ворогам і загороджувальним силам
 
-klong chen 'od gsal snying thig/ rdo rje gsung/
+@#/_/klong chen 'od gsal snying thig/ rdo rje gsung/
 
 /rgya gar gyi skad/
 
@@ -42,7 +42,7 @@ KUN  LEM  NRI  SIR  NTA  PRE  SHU  YE
 
 BAM  HRI  HRIH HRIM HUNG TRAM PHEM PHEIM
 
-klong chen snying thig/ rdo rje gsung/
+@#/_/klong chen snying thig/ rdo rje gsung/
 
 /bod gyi skad/
 
@@ -188,7 +188,7 @@ PHEM: Руйнування.
 PHEIM: Очищення.
 TRAM: Насіння Ратнасабхави.
 
-klong chen 'od gsal snying thig/ sngags kyi mchod pa/
+@#/_/klong chen 'od gsal snying thig/ sngags kyi mchod pa/
 
 Просвітлення:
 DHARMA: Вогнестійкі істини основи.
@@ -301,7 +301,7 @@ TRAG: Коза; жертва.
 TSE: Життя; час.
 UCISHTA: Залишки; трансгресія.
 
-klong chen 'od gsal mkan' 'gro snying thig/ klong chen nyer lnga'i snying po/
+@#/_/klong chen 'od gsal mkan' 'gro snying thig/ klong chen nyer lnga'i snying po/
 
 karma raksha ghi ham ti
 bhe ga ra na so ghadlim
@@ -333,7 +333,7 @@ karma e ka ma nu sā
 san tri ma ma karma ta
 nja la khe bha ki li sa
 
-rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ nyi lza kha sbyor/
+@#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ nyi lza kha sbyor/
 
 e ma ke ri ka ri
 mas ta bha li bha li

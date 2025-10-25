@@ -1,4 +1,4 @@
-klong chen 'od gsal mkan' 'gro snying thig/ sa bdag dang 'jig rten pa'i srung ma/
+@#/_/klong chen 'od gsal mkan' 'gro snying thig/ sa bdag dang 'jig rten pa'i srung ma/
 
 A A A
 
@@ -10,7 +10,7 @@ RAKTA BALIMTA KARAM KAHI
 
 A A A
 
-klong chen 'od gsal mkan' 'gro snying thig/ ral pa gcig ma/
+@#/_/klong chen 'od gsal mkan' 'gro snying thig/ ral pa gcig ma/
 
 A A A
 
@@ -22,7 +22,7 @@ RAKTA BALIMTA KARAM KAHI
 
 A A A
 
-klong chen 'od gsal mkan' 'gro snying thig/ gza' bdud/
+@#/_/klong chen 'od gsal mkan' 'gro snying thig/ gza' bdud/
 
 A A A
 
@@ -34,7 +34,7 @@ RAKTA BALIMTA KARAM KAHI
 
 A A A
 
-klong chen 'od gsal mkan' 'gro snying thig/ mgon po nag po/
+@#/_/klong chen 'od gsal mkan' 'gro snying thig/ mgon po nag po/
 
 A A A
 
@@ -46,35 +46,35 @@ RAKTA BALIMTA KARAM KAHI
 
 A A A
 
-klong chen 'od gsal snying thig/ bcu gnyis mgon po'i 'od zer/ 12 променів-захисників
+@#/_/klong chen 'od gsal snying thig/ bcu gnyis mgon po'i 'od zer/ 12 променів-захисників
 
-/ye shes kyi mgon po/ Гонпо Мудрості
+ye shes kyi mgon po/ Гонпо Мудрості
 
-//ral gcig ma/ Ekajati, One-braided supreme ḍākinī, guards terma secrecy with single eye & phurba
-//dza ra hu la/ Rahula, Nine-headed planetary nāga, subdues cosmic obstacles with serpent body
-//rdo rje legs pa/ Dorje Legpa, guards terma with hammer on goat mount
+/ral gcig ma/ Ekajati, One-braided supreme ḍākinī, guards terma secrecy with single eye & phurba
+/dza ra hu la/ Rahula, Nine-headed planetary nāga, subdues cosmic obstacles with serpent body
+/rdo rje legs pa/ Dorje Legpa, guards terma with hammer on goat mount
 
-/dpal nag po chen po'i sprul sku/ Махакала
+dpal nag po chen po'i sprul sku/ Махакала
 
-//ber nag chen/ Bernagchen, counters sorcery with crow & curved knife
-//phyag drug pa/ Six-Armed Mahākāla, crushes obstacles with chopper & rosary on elephant
-//gzhal yas khang pa/ Panjaranātha, Four-armed, seals mandalas with iron net & staff
+/ber nag chen/ Bernagchen, counters sorcery with crow & curved knife
+/phyag drug pa/ Six-Armed Mahākāla, crushes obstacles with chopper & rosary on elephant
+/gzhal yas khang pa/ Panjaranātha, Four-armed, seals mandalas with iron net & staff
 
-/dpal ldan lha mo'i rnam 'gyur/ Шрі Деві
+dpal ldan lha mo'i rnam 'gyur/ Шрі Деві
 
-//dpal ldan lha mo/ Palden Lhamo, Chief protectress, rides mule over blood sea with skull-cup
-//seng ge'i gdong pa/ Simhamukha, Lion-faced ḍākinī, destroys magic with chopper in charnel flames
-//khros ma nag mo/ Tröma Nagmo, Black Chöd ḍākinī, severs ego with chopper in cemeteries
+/dpal ldan lha mo/ Palden Lhamo, Chief protectress, rides mule over blood sea with skull-cup
+/seng ge'i gdong pa/ Simhamukha, Lion-faced ḍākinī, destroys magic with chopper in charnel flames
+/khros ma nag mo/ Tröma Nagmo, Black Chöd ḍākinī, severs ego with chopper in cemeteries
 
 /dam can 'jig rten mgon po/ Підкорені клятвою
 
-//pe har rgyal po/ Pehar Gyalpo, White king, rides lion with lance for oracular guidance
-//gnyan chen thang lha/ Nyenchen Tanglha, Mountain god, holds crystal rosary on horse for snow protection
-//rtsi'u dmar po/ Tsiu Marpo, Red warrior, spear-wielding, subdues enemies on horse
+/pe har rgyal po/ Pehar Gyalpo, White king, rides lion with lance for oracular guidance
+/gnyan chen thang lha/ Nyenchen Tanglha, Mountain god, holds crystal rosary on horse for snow protection
+/rtsi'u dmar po/ Tsiu Marpo, Red warrior, spear-wielding, subdues enemies on horse
 
-klong chen snying thig/ lha srung/ Захистники Лонгчен Нінгтік
+@#/_/klong chen snying thig/ lha srung/ Захистники Лонгчен Нінгтік
 
-/tak yang bar wa/ Takyang Barwa {One who rises with power, associated with strength and elevation.}
+/stag khyung bar ba/ Takyung Barwa {Fiery Guru Rinpoche form, subdues obstacles with wrathful blaze.}
 /shin je/ Shinje {Lord of Death, associated with the cycle of life and death.}
 /yang dak/ Yangdak {Pure One, embodies purity and enlightenment.}
 /dpal chen du pa/ Palchen Dupa {Glorious Mighty One, a protector with great power.}
@@ -89,65 +89,7 @@ klong chen snying thig/ lha srung/ Захистники Лонгчен Нінг�
 /dur tro lha mo/ Durtro Lhamo {Cemetery Goddess, associated with charnel grounds and protection.}
 /yu sgron ma/ Yudronma {Turquoise Lamp, a protector associated with light and guidance.}
 
-/ye shes kyi mgon po/ Principal Wisdom Protectors {Enlightened emanations, safeguarding Dzogchen’s profound teachings with wrathful compassion.}
-
-/ral gcig ma/ Ekajaṭī {One-braided ḍākinī, supreme Dzogchen guardian with single eye and phurba.}
-/dza ra hu la/ Rāhula {Nine-headed planetary nāga, subdues cosmic obstacles with serpent body.}
-/rdo rje legs pa/ Dorje Legpa {Blacksmith protector, guards terma with hammer on goat mount.}
-/mgon po legs ldan/ Gönpo Lekden {Tantra guardian, wields vajra in fulfilment rites for stability.}
-/ma ning nag po/ Maning Nagpo {Genderless Mahākāla, protects non-dual wisdom with chopper and heart.}
-/seng mchong ma/ Sengdongma {Lion-faced ḍākinī, destroys negativity with chopper in flames.}
-/stag khyung bar ba/ Takyung Barwa {Fiery Guru Rinpoche form, subdues obstacles with wrathful blaze.}
-
-/dpal nag po chen po'i sprul sku/ Śrī Mahākāla Emanations {Wrathful heruka forms, protecting tantric secrecy with fierce implements.}
-
-/ber nag can/ Bernagchen (Black Cloak Mahākāla) {Black-mantled, counters sorcery with crow and curved knife.}
-/phyag drug pa/ Six-Armed Mahākāla (Shadbhuja Mahākāla) {Six-armed, crushes obstacles with chopper and rosary on elephant.}
-/gzhal yas khang pa/ Panjaranātha (Lord of the Pavilion) {Four-armed, seals mandalas with iron net and staff.}
-/phyag bzhi pa/ Four-Armed Mahākāla (Chaturbhuja Mahākāla) {Four-armed, guards tantra with chopper and rosary on corpse.}
-/gdong bzhi pa/ Four-Faced Mahākāla (Chaturmukha Mahākāla) {Four-faced, subdues maras with winged sword and shield.}
-
-/dpal ldan lha mo'i rnam 'gyur/ Śrī Devī Forms {Feminine wisdom deities, embodying wrathful compassion to protect rituals.}
-
-/dpal ldan lha mo/ Palden Lhamo {Chief protectress, rides mule over blood sea with skull-cup.}
-/za yum sngon po mdung ma/ Rahula’s Consort (Nīladāṇḍā) {Blue-staffed, subdues planetary harms with snake adornments.}
-/tshe ring ma/ Tseringma {Long-life sister, holds vase on lion for longevity.}
-/lha mo gnam ldan ma/ Lhamo Nen-en-ma {Sky-dwelling goddess, removes obstacles with wrathful gaze.}
-/seng ge'i gdong pa/ Simhamukha {Lion-faced, destroys magic with chopper in charnel flames.}
-/khros ma nag mo/ Tröma Nagmo {Black Chöd ḍākinī, severs ego with chopper in cemeteries.}
-/rdo rje g.yu sgron ma/ Dorje Yudronma {Turquoise-lamp ḍākinī, guards sites with vajra light.}
-/khros ma nag mo/ Krodhīkālī {Black wrathful, purifies ignorance with four-armed chopper.}
-/ma gcig grub pa'i rgyal mo/ Machik Drupai Gyalmo {Chöd queen, cuts ego with skeletal drum and bell.}
-/rdo rje mkha' 'gro/ Vajra Ḍākinī {Vajra-family, empowers tantra with four-armed vajra and bell.}
-/rdo rje ro langs ma/ Vajra Vetālī {Zombie ḍākinī, severs fear with chopper in cemeteries.}
-/dus kyi grub ma/ Kālasiddhi {Time ḍākinī, wields wheel for timely ritual success.}
-
-/dam can 'jig rten mgon po/ Oath-Bound Worldly Protectors {Subdued Tibetan spirits, bound by Padmasambhava for worldly guardianship.}
-
-/pe har rgyal po/ Pehar Gyalpo {White king, rides lion with lance for oracular guidance.}
-/gnyan chen thang lha/ Nyenchen Tanglha {Mountain god, holds crystal rosary on horse for snow protection.}
-/rtse'u dmar po/ Tsiu Marpo {Red warrior, spear-wielding, subdues enemies on horse.}
-/gshin rje/ Yama {Death lord, buffalo-riding, holds noose for lifespan protection.}
-/rdo rje grags ldan/ Dorje Drakden {Pehar’s minister, mirror-holding, delivers prophecies on lion.}
-/se skra can/ Setrap Chen {Armored warrior, club-wielding, leads spirit armies on horse.}
-/dge bsnyen spo mra/ Genyen Pomra {Eastern spirit, bow-wielding, guards borders on stag.}
-/dge bsnyen lcags pa me len/ Genyen Jakpa Melen {Iron spirit, fiery-haired, guards with sword on wolf.}
-/dge bsnyen rdo rje 'bar ba/ Genyen Dorje Barwa {Blazing vajra, fiery protection against elemental harms.}
-/dge bsnyen chen po dung rgyud/ Genyen Chenpo Dung Gyu {Conch spirit, purifies sound with conch on horse.}
-/ku la kha ri/ Kula Khari {Mountain god, lance-crowned, guards passes for pilgrims.}
-/mon bu pu tra/ Monbuputra {Border spirit, lasso-wielding, protects travel on tiger.}
-/shing bya can/ Shingja Chen {Tree spirit, holds wooden staff on deer for forest protection.}
-/ra thna can/ Rathna Chen {Jewel spirit, holds gems on elephant for wealth protection.}
-/pu tra nag po/ Putra Nagpo {Black son, sickle-wielding, fierce on black horse.}
-
-/zhing skyong dang mchod pa'i lha mo/ Kṣetrapālas and Offering Goddesses {Site and ritual guardians, supporting mandala and offerings.}
-
-/zhing skyong/ Kṣetrapālas {Field protectors, guard sacred sites like Uḍḍiyāna in body mandala.}
-/mchod pa'i lha mo/ Offering Goddesses {Auxiliary deities, present tormas in ritual offerings.}
-/rdo rje'i sku mched/ Vajra Brothers and Sisters {Retinue in Ma Gön Chamdral, uphold sacred commands.}
-/chos skyong spyi/ General Dharmapālas {Collective guardians, invoked for Dharma flourishing.}
-
-gnam chos/ dpal chen mgon po bdun chu rtsa gnyis/ 72 Величний і Славних Гомпо Намчо
+@#/_/gnam chos/ dpal chen mgon po bdun chu rtsa gnyis/ 72 Величних і Славних Гомпо Намчо
 
 /gter srung skor/ Terma and Cycle-Specific Emanations {Unique protectors of Namchö’s mind treasures, guarding revelations and rituals.}  
 
@@ -268,7 +210,7 @@ gnam chos/ dpal chen mgon po bdun chu rtsa gnyis/ 72 Величний і Сла�
 /dam can gar ba nag po/ Damchen Garwa Nagpo {Black blacksmith, guards Huhunkara’s terma with anvil.}
 /se khra chen/ Setrap Chen {Armored, guards Munisamcara’s ḍākinī places with club.}
 
-/klong chen 'od gsal mkha' 'gro snying thig/ lha srung/ Захисники Норбупа
+@#/_/klong chen 'od gsal mkha' 'gro snying thig/ lha srung/ Захисники Норбупа
 
 /ye shes kyi mgon po/ Principal Wisdom Protectors {Enlightened emanations safeguarding Longsal's Dzogchen essence through visionary transmissions.}
 
