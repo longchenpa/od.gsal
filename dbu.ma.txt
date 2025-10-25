@@ -1,4 +1,4 @@
-klong chen 'od gsal snying thig/ dbu ma/ Формальна теорема пустотності всіх феноменів
+@#/_/klong chen 'od gsal snying thig/ dbu ma/ Формальна теорема пустотності всіх феноменів
 
 module dbu.ma where
 import path

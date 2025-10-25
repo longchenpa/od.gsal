@@ -1,4 +1,4 @@
-klong chen 'od gsal mkan' 'gro snying thig/ dkyil 'khor/
+@#/_/klong chen 'od gsal mkan' 'gro snying thig/ dkyil 'khor/
 
 A A A
 
@@ -10,7 +10,5 @@ RAKTA BALIMTA KARAM KAHI
 
 A A A
 
-klong chen 'od gsal snying thig/ bzhi dkyil 'khor/
 
-/klong chen 'od gsal/ medthod
-/
+
