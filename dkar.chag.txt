@@ -485,10 +485,11 @@ VI) /dgon mdzod/ Клас 6: Скарбниця
 
 Каталог текстів: $ cat * | grep "\@\#\/_\/" | sort | cut -c5-
 
-/'phags pa bzang po spyod pa'i smon lam gyi rgyal po zhes bya ba bzhugs so//
 /bi ma snying thig/ sngon 'gro/
-/gnam chos/ dkar gtor/ Офіра білого торма
-/gnam chos/ dpal chen mgon po bdun chu rtsa gnyis/ 72 Величних і Славних Гомпо Намчо
+/chos kyi blo gros/ 'phags pa bzang po spyod pa'i smon lam gyi rgyal po zhes bya ba bzhugs so/
+/gnam chos/ dkar gtor/
+/gnam chos/ dpal chen mgon po bdun chu rtsa gnyis/
+/gnam chos/ mi 'gyur rdo rje rnam thar/
 /gnam chos/ zhi khro/
 /klong chen 'od gsal mkan' 'gro snying thig/ dkyil 'khor/
 /klong chen 'od gsal mkan' 'gro snying thig/ gza' bdud/
@@ -498,50 +499,55 @@ VI) /dgon mdzod/ Клас 6: Скарбниця
 /klong chen 'od gsal mkan' 'gro snying thig/ rdo rje rmongs pa/
 /klong chen 'od gsal mkan' 'gro snying thig/ rdo rje'i glu/
 /klong chen 'od gsal mkan' 'gro snying thig/ sa bdag dang 'jig rten pa'i srung ma/
+/klong chen 'od gsal mkha' 'gro snying thig/ 'od gsal/
 /klong chen 'od gsal mkha' 'gro snying thig/ a dkar bla ma'i rnal 'byor/
-/klong chen 'od gsal mkha' 'gro snying thig/ sngon 'gro/
-/klong chen 'od gsal mkha' 'gro snying thig/ tshe sgrub rdo rje sogs thig gya/
-/klong chen 'od gsal mkha' 'gro snying thig/ 'od gsal/ Практика Ясного Світла
 /klong chen 'od gsal mkha' 'gro snying thig/ bla ma rnal 'byor/
-/klong chen 'od gsal mkha' 'gro snying thig/ lha srung/ Захисники Норбупа
-/klong chen 'od gsal mkha' 'gro snying thig/ sems sde'i rnal 'byor bzhi/ Чотири споглядання мислення
+/klong chen 'od gsal mkha' 'gro snying thig/ lha srung/
+/klong chen 'od gsal mkha' 'gro snying thig/ sems sde'i rnal 'byor bzhi/
+/klong chen 'od gsal mkha' 'gro snying thig/ sngon 'gro/
 /klong chen 'od gsal mkha' 'gro snying thig/ sras mo go ma de byi/
+/klong chen 'od gsal mkha' 'gro snying thig/ tshe sgrub rdo rje sogs thig gya/
 /klong chen 'od gsal mkha' 'gro snying thig/ tshogs/
-/klong chen 'od gsal snying thig/ bcu gnyis mgon po'i 'od zer/ 12 променів-захисників
-/klong chen 'od gsal snying thig/ dbu ma/ Формальна теорема пустотності всіх феноменів
-/klong chen 'od gsal snying thig/ dkar chag/ Лонгчен Осал: Коментар на Зміст
+/klong chen 'od gsal snying thig/ bcu gnyis mgon po'i 'od zer/
+/klong chen 'od gsal snying thig/ dbu ma/
+/klong chen 'od gsal snying thig/ dkar chag/
 /klong chen 'od gsal snying thig/ kro dha ka li/
-/klong chen 'od gsal snying thig/ mkha' 'gro ma'i yid dam gyi bka' rgya/ Запечатаний Текст Жіночих Їдамів Дакіні
-/klong chen 'od gsal snying thig/ rab gsal nyi 'od rnam par snang ba'i rgyan/ Осяйна Окраса Сяючого Сонячного Світла
+/klong chen 'od gsal snying thig/ mkha' 'gro ma'i yid dam gyi bka' rgya/
+/klong chen 'od gsal snying thig/ rab gsal nyi 'od rnam par snang ba'i rgyan/
 /klong chen 'od gsal snying thig/ rdo rje gsung/
-/klong chen 'od gsal snying thig/ rdo rje rnal 'byor ma 'od phir ma'i sgrub thabs myur lam/ Швидкий шлях внутрішнього тепла Ваджрайогіні
+/klong chen 'od gsal snying thig/ rdo rje rnal 'byor ma 'od phir ma'i sgrub thabs myur lam/
 /klong chen 'od gsal snying thig/ rnal 'byor spyod pa/
 /klong chen 'od gsal snying thig/ sngags kyi mchod pa/
 /klong chen 'od gsal snying thig/ sngon 'gro/
 /klong chen 'od gsal snying thig/ tshogs/
-/klong chen 'od gsal snying thig/ ye shes lnga'i thig le dkyil 'khor/ Мандала Тігл'є Г'ялчен і Тогал
+/klong chen 'od gsal snying thig/ ye shes lnga'i thig le dkyil 'khor/
+/klong chen snying thig/ bla ma drag po rta khyung 'bar ba/
 /klong chen snying thig/ dge bsngo/
-/klong chen snying thig/ gcod yul mkha' 'gro'i gad rgyangs bzhugs/ Лонгчен Нінгтік: Сміх Дакіні
+/klong chen snying thig/ gcod yul mkha' 'gro'i gad rgyangs bzhugs/
 /klong chen snying thig/ gdod ma'i mgon po'i lam gyi rim pa 'i khrid yig ye shes bla ma zhes bya ba bzhugs/
-/klong chen snying thig/ lha srung/ Захистники Лонгчен Нінгтік
+/klong chen snying thig/ lha srung/
 /klong chen snying thig/ nang gsang rnal 'byor/
 /klong chen snying thig/ phyi sgrub bla ma'i rnal 'byor/
 /klong chen snying thig/ rdo rje gsung/
 /klong chen snying thig/ rdo rje sems dpa'/
 /klong chen snying thig/ rdo rje'i lha mo bcu drug/
 /klong chen snying thig/ rdzogs chen pa rang byung rdo rje'i don gyi rnam thar do ha'i rgyan ces bya ba bzhugs/
-/klong chen snying thig/ skong bshags rdo rje'i thol glu bzhugs/ Спонтанна Ваджрна Пісня Виконання та Сповіді
-/klong chen snying thig/ thig le'i rgya can gyi smin byed ye shes mchog sbyin zhes bya ba bzhugs so/ Дарування Печатки Тіґлє Г'ялчен
+/klong chen snying thig/ skong bshags rdo rje'i thol glu bzhugs/
+/klong chen snying thig/ thig le'i rgya can gyi smin byed ye shes mchog sbyin zhes bya ba bzhugs so/
 /klong chen snying thig/ thig le'i rgya can/
-/klong chen snying thig/ tshogs bsdus ni/ Коротка Ганапуджа Рігдзіна Джікме Лінгпи
-/klong chen snying thig/ yang gsang bla ma'i sgrub pa thig le'i rgya can bzhugs/ Надзвичайно таємна практика Лами Тіглє Г'ялчен
-/klong chen snying/ bla ma drag po rta khyung 'bar ba/
+/klong chen snying thig/ tshogs bsdus ni/
+/klong chen snying thig/ yang gsang bla ma'i sgrub pa thig le'i rgya can bzhugs/
 /klong gsal snying po/ sngon 'gro/
-/mkha' 'gro snying thig/ 'od gsal/ Практика Ясного Світла
-/mkha' 'gro snying thig/ khregs chod ngo sprod mtha 'grol klong yangs/ Вступ до Трекчо з Кхандро Ньїнґтіки
-/mkha' 'gro snying thig/ mkha' 'gro sngags kyi lde mig/ Ключ-мантри Дакіні
+/mkha' 'gro kun bzang/ rnam thar/
+/mkha' 'gro snying thig/ 'od gsal/
+/mkha' 'gro snying thig/ khregs chod ngo sprod mtha 'grol klong yangs/
+/mkha' 'gro snying thig/ mkha' 'gro sngags kyi lde mig/
 /mkha' 'gro snying thig/ tsche sgrub/
-/nyang ral nyi ma 'od zer/ dpal rdo rje phag mo khros ma nag mo'i gsang ba thugs kyi sgrub pa'i rgyun khyer snying por dril ba bde chen myur lam/
+/nyi ma 'od zer/ dpal rdo rje phag mo khros ma nag mo'i gsang ba thugs kyi sgrub pa'i rgyun khyer snying por dril ba bde chen myur lam/
+/nyi ma grags pa/ dzam b+ha la'i chu sbyin zur gsal sgom sde pas sbyar ba bzhugs/
+/nyi ma grags pa/ phag mo nag mo'i zab thig las: mkha' 'gro sgrub pa'i mtshan rtags/
+/nyi ma grags pa/ rnam thar/
+/nyi ma grags pa/ thod rgal khrid yig/
 /rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ nyi lza kha sbyor/
 
 @#/_/klong chen 'od gsal snying thig/ rab gsal nyi 'od rnam par snang ba'i rgyan/ Осяйна Окраса Сяючого Сонячного Світла
