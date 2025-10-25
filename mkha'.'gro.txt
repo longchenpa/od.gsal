@@ -35,7 +35,7 @@
 /gzi byin rlabs ma/ Radiant Blessing Dakini (Дакіні Сяючого Благословення). Золота дакіні благословення (gzi byin), з ваджрою та дзвіночком; передає сиддхи, використовується в wang (dbang) та lung ритуалах.
 /ma ri ci/ 'od zer can ma/ Marichi (Дакіні Світла, Озер Ченма). Жовта або червона дакіні сонячного світла, захисниця від темряви та ігнорансу; їде на сонячному візку з сімома конями, нищить перешкоди.
 
-@#/_/nyang ral nyi ma 'od zer/ dpal rdo rje phag mo khros ma nag mo'i gsang ba thugs kyi sgrub pa'i rgyun khyer snying por dril ba bde chen myur lam/
+@#/_/nyi ma 'od zer/ dpal rdo rje phag mo khros ma nag mo'i gsang ba thugs kyi sgrub pa'i rgyun khyer snying por dril ba bde chen myur lam/
 
 Славна Ваджрайогіні, гнівна чорна богиня: Щоденна практика таємного здійснення розуму, згорнута в сутність, під назвою "Швидкий шлях до великого блаженства".
 
@@ -322,9 +322,7 @@ nyang lugs drag po bde gshegs 'dus pa'i sgrub thabs bzhugs so/
 nyang lugs drag po bde gshegs 'dus pa'i sgrub thabs la sngon 'gro ni/
 bgegs bskrad/
 
-rig 'dzin nyi ma grags pa/ phag mo nag mo'i zab thig las: mkha' 'gro sgrub pa'i mtshan rtags/
-
-З Глибокої Краплі Чорної Ваджрайогіні: Знаки Практики Дакині
+@#/_/nyi ma grags pa/ phag mo nag mo'i zab thig las: mkha' 'gro sgrub pa'i mtshan rtags/ З Глибокої Краплі Чорної Ваджрайогіні: Знаки Практики Дакині
 
 Поклоніння
 
