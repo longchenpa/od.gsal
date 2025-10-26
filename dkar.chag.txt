@@ -308,7 +308,7 @@ IV) /rdzogs rim/ Клас 4: Практики стадії завершення
 
 01) //'pho ba/ Пхова
 02) //gtum mo/ Тумо
-03) //rtsa rlung/ Цалунг
+03) //rtsa rlung thig/ Цалунг
 04) //nang gsang rnal 'byor/ Секретна гуру-йога
 
 V) /rdzogs chen gyi nyams len/ Клас 5: Практики остаточного довершення
@@ -486,11 +486,15 @@ VI) /dgon mdzod/ Клас 6: Скарбниця
 Каталог текстів: $ cat * | grep "\@\#\/_\/" | sort | cut -c5-
 
 /bi ma snying thig/ sngon 'gro/
-/chos kyi blo gros/ 'phags pa bzang po spyod pa'i smon lam gyi rgyal po zhes bya ba bzhugs so/
-/gnam chos/ dkar gtor/
-/gnam chos/ dpal chen mgon po bdun chu rtsa gnyis/
-/gnam chos/ mi 'gyur rdo rje rnam thar/
-/gnam chos/ zhi khro/
+
+/mkha' 'gro kun bzang/ rnam thar/
+/mkha' 'gro snying thig/ 'od gsal/
+/mkha' 'gro snying thig/ khregs chod ngo sprod mtha 'grol klong yangs/
+/mkha' 'gro snying thig/ mkha' 'gro sngags kyi lde mig/
+/mkha' 'gro snying thig/ tsche sgrub/
+
+/nyi ma 'od zer/ dpal rdo rje phag mo khros ma nag mo'i gsang ba thugs kyi sgrub pa'i rgyun khyer snying por dril ba bde chen myur lam/
+
 /klong chen 'od gsal mkan' 'gro snying thig/ dkyil 'khor/
 /klong chen 'od gsal mkan' 'gro snying thig/ gza' bdud/
 /klong chen 'od gsal mkan' 'gro snying thig/ klong chen nyer lnga'i snying po/
@@ -508,6 +512,7 @@ VI) /dgon mdzod/ Клас 6: Скарбниця
 /klong chen 'od gsal mkha' 'gro snying thig/ sras mo go ma de byi/
 /klong chen 'od gsal mkha' 'gro snying thig/ tshe sgrub rdo rje sogs thig gya/
 /klong chen 'od gsal mkha' 'gro snying thig/ tshogs/
+
 /klong chen 'od gsal snying thig/ bcu gnyis mgon po'i 'od zer/
 /klong chen 'od gsal snying thig/ dbu ma/
 /klong chen 'od gsal snying thig/ dkar chag/
@@ -521,6 +526,7 @@ VI) /dgon mdzod/ Клас 6: Скарбниця
 /klong chen 'od gsal snying thig/ sngon 'gro/
 /klong chen 'od gsal snying thig/ tshogs/
 /klong chen 'od gsal snying thig/ ye shes lnga'i thig le dkyil 'khor/
+
 /klong chen snying thig/ bla ma drag po rta khyung 'bar ba/
 /klong chen snying thig/ dge bsngo/
 /klong chen snying thig/ gcod yul mkha' 'gro'i gad rgyangs bzhugs/
@@ -538,16 +544,19 @@ VI) /dgon mdzod/ Клас 6: Скарбниця
 /klong chen snying thig/ tshogs bsdus ni/
 /klong chen snying thig/ yang gsang bla ma'i sgrub pa thig le'i rgya can bzhugs/
 /klong gsal snying po/ sngon 'gro/
-/mkha' 'gro kun bzang/ rnam thar/
-/mkha' 'gro snying thig/ 'od gsal/
-/mkha' 'gro snying thig/ khregs chod ngo sprod mtha 'grol klong yangs/
-/mkha' 'gro snying thig/ mkha' 'gro sngags kyi lde mig/
-/mkha' 'gro snying thig/ tsche sgrub/
-/nyi ma 'od zer/ dpal rdo rje phag mo khros ma nag mo'i gsang ba thugs kyi sgrub pa'i rgyun khyer snying por dril ba bde chen myur lam/
+
 /nyi ma grags pa/ dzam b+ha la'i chu sbyin zur gsal sgom sde pas sbyar ba bzhugs/
 /nyi ma grags pa/ phag mo nag mo'i zab thig las: mkha' 'gro sgrub pa'i mtshan rtags/
 /nyi ma grags pa/ rnam thar/
 /nyi ma grags pa/ thod rgal khrid yig/
+
+/gnam chos/ dkar gtor/
+/gnam chos/ dpal chen mgon po bdun chu rtsa gnyis/
+/gnam chos/ mi 'gyur rdo rje rnam thar/
+/gnam chos/ zhi khro/
+
+/chos kyi blo gros/ 'phags pa bzang po spyod pa'i smon lam gyi rgyal po zhes bya ba bzhugs so/
+
 /rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ nyi lza kha sbyor/
 
 @#/_/klong chen 'od gsal snying thig/ rab gsal nyi 'od rnam par snang ba'i rgyan/ Осяйна Окраса Сяючого Сонячного Світла

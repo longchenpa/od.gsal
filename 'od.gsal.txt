@@ -167,35 +167,72 @@
 
 1. Визначення та етимологія
 
-Канонічне значення 'ja' lus --- це коли фізичне тіло (phung po)
-розчиняється в чистому світлі ('od gsal) без залишку трупа (ro),
-залишаючи лише нігті (sen mo) і волосся (dbu skra), зсихаючись
-до дитини, зникаючи чи розчиняючись у веселці.
+Агрегати (phung po) розчиняються у ясному світлі ('od gsal) без залишків смаку (ro med par);
+або залишаються лише нігті, волосся та нігті (sen mo dbu skra gos tsam lhag pa),
+або [тіло] скорочується до розмірів дитини (byis pa'i tshad du 'dus pa),
+або розчиняється у просторі (nam mkha' la thim pa),
+або перетворюється на райдугу ('ja' tshon du 'gyur ba).
+Райдужне тіло не є буддою, але є способом бачення будди (sangs rgyas ji ltar mthong ba'i tshul).
+Будда стає буддою, навіть досягнувши світлового тіла ('od lus) чи райдужного тіла ('ja' lus).
 
-2. Типологія райдужного тіла (чотири рівні)
+2. Типологія тіл
+
+'od lus/ Тіло світла
+
+Не класифікується. Досягнення Вімаламітри.
+
+'ja' lus kyi rim pa bzhi/ Чотири веселкових тіла
 
 'ja' lus chen po/
 
 Повне зникнення тіла (lus med pa).
 Залишки: sen mo, dbu skra, gos.
-Досягнуто: Падмасамбхава, Вімаламітра.
+Досягнуто: Падмасамбхава, Шрі Сімха.
 
 'ja' lus 'phrul pa/
 
-Тіло зменшується до розміру дитини
-(byis pa'i tshad) або долоні (lag mthil).
+Тіло зменшується до розміру дитини (byis pa'i tshad)
+або долоні (lus byis pa'i tshad sam lag mthil tsam du 'dus pa).
 
 'ja' lus rdzogs rim/
 
-Розчинення протягом 7 днів після смерті ('das ston).
-Найпоширеніша сучасна форма.
+Протягом семи днів після смерті ('das ston nyin bdun gyi nang du)
+розчиняється у різнокольорових променях світла ('od zer sna tshogs su thim pa).
 
 'ja' lus snang ba/
 
-Тіло випромінює світло, але не зникає.
-Проміжний стан (bar do'i snang ba).
+Тіло не розчиняється, а випромінює світло (lus mi thim par 'od 'phro ba).
+Прояв у бардо (bar do'i snang ba).
 
-3. Фізіологічний механізм: канали, вітри, краплі
+3. lung gi rnam bzhag/ Види вітрів
+
+las kyi rlung/ Кармічні
+
+/zag bcas kyi rlung phyi nang gi 'du 'brel gyi las 'phro ba/
+
+Забруднений вітер карми (zag bcas kyi rlung),
+що походить від кармічних дій зовнішнього та внутрішнього
+зв'язку (phyi nang gi 'du 'brel gyi las 'phro ba).
+
+ye shes kyi rlung/ Мудрості
+
+/mtshan ma dang bcas pa/ Присутні ознаки
+
+//sgra chen po dri 'od zer chen po dang bcas pa/
+//khregs chod legs grub kyi rtags/
+//slob ma la dad pa skye ba/
+
+Великий звук, запах, велике світло (sgra chen po dri 'od zer chen po dang bcas pa).
+Ознаки успішного прориву (khregs chod legs grub kyi rtags).
+У учня виникає віра (slob ma la dad pa skye ba).
+
+/mtshan ma med pa/ Без ознак
+
+//lus nam mkha' la thim pa/
+
+Тіло розчиняється у просторі (lus nam mkha' la thim pa).
+
+3. Фізичний механізм: канали, вітри, краплі
 
 rtsa/ Ца
 
@@ -216,12 +253,12 @@ thig le/ Тіглє
 * Червона крапля (thig le dmar po): піднімається з пупка (lte ba).
 * Єднання в серці → thig le gcig 'dres → 'ja' lus.
 
-4. Послідовність практики
+4. Послідовність практики (sgrub thabs kyi rim pa)
 
 khregs chod/ Трекчо
 
 * Стабілізація rig pa (rig pa'i gnas lugs).
-* Передумова: повний завершення ньондро (sngon 'gro tshang ba).
+* Повне основа попереднех практик (sngon 'gro tshang ba).
 
 thod rgal/ Тогал
 
@@ -232,8 +269,8 @@ thod rgal/ Тогал
 
 mun mtshams/ Темний ретріт
 
-* Мінімум 49 днів.  
-* Чорне світло ('od nag) виникає як gzhi'i 'od gsal.
+З сорок дев'ятого дня (nyin zhags bzhi bcu rtsa dgu) виникає
+базове ясне світло — чорне світло (gzhi'i 'od gsal 'od nag 'char ba).
 
 nam mkha' ar gtad/ Споглядання неба
 
@@ -241,7 +278,8 @@ nam mkha' ar gtad/ Споглядання неба
 
 lus dben/ Ізоляція тіла
 
-* Вітри входять у dbu ma.
+* Вітри входять у центральний канал Авадхуті (dbu ma a ba dhU ti)
+* Шлях злиття крапель (thig le 'dres pa'i lam).
 * Починається фізичне розчинення (lus 'gyur ba).
 
 5. Фізичні ознаки (перед розчиненням)
@@ -250,18 +288,18 @@ lus dben/ Ізоляція тіла
 * Не відкидає тіні (grib med pa)
 * Не залишає відбитків у снігу (rkang rjes med pa)
 * Не потребує їжі (zas mi dgos pa)
-* Тіло зменшується (7–21 день)
-* Райдуги над житлом (khyim steng 'ja' tshon)
+* Тіло скорочується протягом семи чи двадцяти одного дня (lus nyin bdun nyi shu gcig gi nang du 'dus pa).
+* Над домом з'являється райдуга (khyim steng 'ja' tshon 'char ba).
 
 9. Інтеграція
 
-/'ja' lus sgrub thabs/  
+'ja' lus sgrub thabs/
 
-1) khregs chod → rig pa
-2) thod rgal  → 'od gsal
-3) yang ti → 'od nag  
-4) nam mkha' ar gtad → 'ja' lus
-5) lus dben → lus → 'od
+1) Прорив (khregs chod) → усвідомлення (rig pa).
+2) Стрибок (thod rgal) → ясне світло ('od gsal).
+3) Янґті (yang ti) → чорне світло ('od nag).
+4) Фіксація на просторі (nam mkha' ar gtad) → райдужне тіло ('ja' lus).
+5) Ізоляція тіла (lus dben) → тіло розчиняється у ясному світлі (lus → 'od gsal du thim pa).
 
 SARVA MANGALAM
 
