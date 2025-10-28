@@ -169,11 +169,11 @@
 
 Агрегати (phung po) розчиняються у ясному світлі ('od gsal) без залишків смаку (ro med par);
 або залишаються лише нігті, волосся та нігті (sen mo dbu skra gos tsam lhag pa),
-або [тіло] скорочується до розмірів дитини (byis pa'i tshad du 'dus pa),
+або тіло скорочується до розмірів дитини (byis pa'i tshad du 'dus pa),
 або розчиняється у просторі (nam mkha' la thim pa),
 або перетворюється на райдугу ('ja' tshon du 'gyur ba).
 Райдужне тіло не є буддою, але є способом бачення будди (sangs rgyas ji ltar mthong ba'i tshul).
-Будда стає буддою, навіть досягнувши світлового тіла ('od lus) чи райдужного тіла ('ja' lus).
+Будда стає Буддою тільки досягнувши світлового тіла ('od lus) чи райдужного тіла ('ja' lus).
 
 2. Типологія тіл
 
@@ -181,28 +181,30 @@
 
 Не класифікується. Досягнення Вімаламітри.
 
-'ja' lus kyi rim pa bzhi/ Чотири веселкових тіла
+'ja' lus kyi rim pa bzhi/ Чотири райдужних тіла
 
-'ja' lus chen po/
+'ja' lus chen po/ Велике райдужне тіло
 
-Повне зникнення тіла (lus med pa).
-Залишки: sen mo, dbu skra, gos.
-Досягнуто: Падмасамбхава, Шрі Сімха.
+* Повне зникнення фізичного тіла (lus med pa).
+* Залишки: лише нігті (sen mo), волосся (dbu skra) та одяг (gos).
+* Приклади реалізації: Падмасамбхава, Шрі Сімха.
+* Механізм: розчинення п’яти елементів ('byung ba lnga) у просторі через злиття rig pa з chos nyid.
 
-'ja' lus 'phrul pa/
+'ja' lus 'phrul pa/ Чудесне райдужне тіло
 
-Тіло зменшується до розміру дитини (byis pa'i tshad)
-або долоні (lus byis pa'i tshad sam lag mthil tsam du 'dus pa).
+* Фізичне тіло скорочується до розмірів дитини (byis pa'i tshad) або долоні (lag mthil tsam).
+* Енергетична трансформація: thig le (краплі) зливаються в центральному каналі (dbu ma), викликаючи часткове розчинення (lus 'dus pa).
 
-'ja' lus rdzogs rim/
+'ja' lus rdzogs rim/ Райдужне тіло завершального етапу
 
-Протягом семи днів після смерті ('das ston nyin bdun gyi nang du)
-розчиняється у різнокольорових променях світла ('od zer sna tshogs su thim pa).
+* Протягом семи днів після смерті ('das ston nyin bdun gyi nang du) розчиняється у різнокольорових променях світла ('od zer sna tshogs su thim pa).
+* Прояв: bar do'i snang ba (бачення проміжного стану).
 
-'ja' lus snang ba/
+'ja' lus snang ba/ Райдужне тіло прояву
 
-Тіло не розчиняється, а випромінює світло (lus mi thim par 'od 'phro ba).
-Прояв у бардо (bar do'i snang ba).
+* Тіло не розчиняється повністю, але випромінює світло (lus mi thim par 'od 'phro ba).
+* Асоціюється з частковою реалізацією, де практик залишається у фізичній формі, але з ознаками просвітлення (khregs chod legs grub kyi rtags).
+* Прояв у бардо (bar do'i snang ba).
 
 3. lung gi rnam bzhag/ Види вітрів
 
@@ -210,9 +212,9 @@ las kyi rlung/ Кармічні
 
 /zag bcas kyi rlung phyi nang gi 'du 'brel gyi las 'phro ba/
 
-Забруднений вітер карми (zag bcas kyi rlung),
-що походить від кармічних дій зовнішнього та внутрішнього
-зв'язку (phyi nang gi 'du 'brel gyi las 'phro ba).
+* Причина: Забруднений вітер карми (zag bcas kyi rlung) походить від кармічних дій зовнішнього та внутрішнього зв'язку (phyi nang gi 'du 'brel gyi las 'phro ba).
+* Умова: Пов'язані з нечистими п'ятьма елементами ('byung ba lnga), що підтримують грубе фізичне тіло.
+* Очищення: через практику khregs chod і thod rgal кармічні вітри трансформуються в ye shes kyi rlung.
 
 ye shes kyi rlung/ Мудрості
 
@@ -241,48 +243,82 @@ rtsa/ Ца
 
 rlung/ Лунг
 
-* srog 'dzin rlung → 'od dkar (простір)  
-* mnyam bzhag rlung → 'od sngon (вода)  
-* khyab byed rlung → 'od ser (земля)  
-* me mnyam rlung → 'od dmar (вогонь)  
-* thur sel rlung → 'od ljang (вітер)  
+* Виникають із дуалістичного зв’язку зовнішнього та внутрішнього (phyi nang gi 'du 'brel).
+* Пов’язані з п’ятьма елементами ('byung ba lnga), що підтримують грубе фізичне тіло.
+* Очищення: через практику khregs chod і thod rgal кармічні вітри (zag bcas kyi rlung) трансформуються в вітра мудрості (ye shes kyi rlung).
+
+П'ять вітрів:
+
+* srog 'dzin rlung → 'od dkar (простір)
+* mnyam bzhag rlung → 'od sngon (вода)
+* khyab byed rlung → 'od ser (земля)
+* me mnyam rlung → 'od dmar (вогонь)
+* thur sel rlung → 'od ljang (вітер)
 
 thig le/ Тіглє
 
-* Біла крапля (thig le dkar po): спускається з черепа (spyi gtsug).
-* Червона крапля (thig le dmar po): піднімається з пупка (lte ba).
-* Єднання в серці → thig le gcig 'dres → 'ja' lus.
+* Біла крапля (thig le dkar po): спускається з черепа (spyi gtsug), асоціюється з енергією батька (pho thig le).
+* Червона крапля (thig le dmar po): піднімається з пупка (lte ba), асоціюється з енергією матері (ma thig le).
+* Під час практики споглядання неба (nam mkha' ar gtad) біла та червона краплі зливаються в
+  серцевій чакрі (snying ka), формуючи єдину краплю (thig le gcig 'dres),
+  що активує 'od gsal і веде до 'ja' lus. Таким чином відбувається єднання
+  в серці через thig le gcig 'dres до 'ja' lus.
 
 4. Послідовність практики (sgrub thabs kyi rim pa)
+
+sngon 'gro/ Попередні практики
+
+* Очищення кармічних слідів (las kyi bag chags).
+* Нагромадження заслуг (bsod nams kyi tshogs) та мудрості (ye shes kyi tshogs).
+* Стабілізація rig pa через медитацію на порожнечу (stong pa nyid).
 
 khregs chod/ Трекчо
 
 * Стабілізація rig pa (rig pa'i gnas lugs).
 * Повне основа попереднех практик (sngon 'gro tshang ba).
+* Техніка: медитація на недвоїсті (gnyis med), що дозволяє розпізнати gzhi (основу) як ясне світло ('od gsal).
+* Ознаки: припинення концептуального мислення (rtog pa zad pa) та виникнення спонтанного усвідомлення (rang byung gi rig pa).
 
 thod rgal/ Тогал
 
-* chos nyid mngon sum/
-* nyams gong 'phel/
-* rig pa tshad phebs/
-* chos zad pa/
+* chos nyid mngon sum/ пряме бачення природи реальності
+* nyams gong 'phel/ зростання досвіду
+* rig pa tshad phebs/ досягнення межі усвідомлення
+* chos zad pa/ вичерпання феноменів
+
+Техніка: споглядання світлових проявів ('od zer snang ba) через Споглядання простору (nam mkha' ar gtad).
 
 mun mtshams/ Темний ретріт
 
-З сорок дев'ятого дня (nyin zhags bzhi bcu rtsa dgu) виникає
-базове ясне світло — чорне світло (gzhi'i 'od gsal 'od nag 'char ba).
+З сорок дев'ятого дня (nyin zhags bzhi bcu rtsa dgu) виникає базове ясне
+світло --- чорне світло (gzhi'i 'od gsal 'od nag 'char ba).
 
-nam mkha' ar gtad/ Споглядання неба
+nam mkha' ar gtad/ Споглядання простору
 
-* Зовнішнє світло = внутрішнє (phyi nang 'od gsal gcig).
+Фіксація погляду на чистому небі (nam mkha' dwangs pa) для
+інтеграції зовнішнього простору (phyi nam mkha') з внутрішнім усвідомленням (nang rig pa).
+
+* Вітри (rlung) спрямовуються в центральний канал (dbu ma).
+* Біла та червона краплі (thig le dkar dmar) зливаються в серці (snying ka), викликаючи 'od gsal.
+* Зовнішнє світло (phyi 'od) і внутрішнє ясне світло (nang 'od gsal) стають єдиними (gcig 'dres).
+
+Ознаки прогресу:
+
+* Виникнення райдужних променів ('ja' tshon 'od zer).
+* Тіло починає випромінювати світло (lus 'od 'phro ba).
 
 lus dben/ Ізоляція тіла
 
-* Вітри входять у центральний канал Авадхуті (dbu ma a ba dhU ti)
-* Шлях злиття крапель (thig le 'dres pa'i lam).
-* Починається фізичне розчинення (lus 'gyur ba).
+* Процес: вітри входять у центральний канал Авадхуті (dbu ma a ba dhU ti) викликаючи розчинення п’яти елементів ('byung ba lnga).
+* Метод: Шлях злиття крапель (thig le 'dres pa'i lam).
+* Мета: завершення фізичного розчинення (lus 'gyur ba).
+* Результат: тіло скорочується (lus 'dus pa) або розчиняється в просторі (nam mkha' la thim pa).
 
-5. Фізичні ознаки (перед розчиненням)
+Тривалість: від 7 до 21 дня (nyin bdun nyi shu gcig).
+
+5. Ознаки практики 'ja' lus
+
+Фізичні:
 
 * Тіло випромінює світло ('od 'phro ba)
 * Не відкидає тіні (grib med pa)
@@ -290,6 +326,12 @@ lus dben/ Ізоляція тіла
 * Не потребує їжі (zas mi dgos pa)
 * Тіло скорочується протягом семи чи двадцяти одного дня (lus nyin bdun nyi shu gcig gi nang du 'dus pa).
 * Над домом з'являється райдуга (khyim steng 'ja' tshon 'char ba).
+
+Енергетичні ознаки:
+
+* Виникнення п’яти кольорових світлових променів ('od zer lnga), що відповідають п’яти елементам.
+* Великий звук (sgra chen po), запах (dri chen po) або світлові феномени ('od zer chen po).
+* У учнів виникає спонтанна віра (slob ma la dad pa skye ba) через вплив енергії практикуючого.
 
 9. Інтеграція
 
