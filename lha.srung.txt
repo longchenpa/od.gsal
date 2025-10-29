@@ -45,7 +45,7 @@
 Славу, пишність, чотири способи зібрання,
 Все це зібрав, подаруйте мені.
 
-11) OM DZAMBALA HRIDAYA HUM HUM SVAHA SARVA SIDDHI PHALA HUM 
+11) OM DZAMBALA HRIDAYA HUM HUM SVAHA SARVA SIDDHI PHALA HUM
 
 12) Так вимовляй, і джнянасатва зникає. Самаясатва розчиняється.
 Піднесену воду безіменним пальцем візьми, доторкнись язика і розкидай каплі в чотирьох напрямках.
@@ -220,37 +220,52 @@ dpal ldan lha mo'i rnam 'gyur/ Шрі Деві
 /gnyan chen thang lha/ Nyenchen Tanglha, Mountain god, holds crystal rosary on horse for snow protection
 /rtsi'u dmar po/ Tsiu Marpo, Red warrior, spear-wielding, subdues enemies on horse
 
-@#/_/klong chen snying thig/ lha srung/ Захистники Лонгчен Нінгтік
+@#/_/klong chen snying thig/ lha srung/ Молитва захисникам Лінії Лонгчен Нінгтік
 
 Мама Трак Ракша Екаджаті (1), Кета Ракша Рахула (2), Ваджра Садху Дордже Легпа (3), Шрі Маха Кала Шасана (4),
 Дурто Лхамо (5), Церінгма (6), Юндронгма (7), Палчен Дюпа (8), Янгдак Херука (9), Дордже Пурба (10),
 Шинже Яма (11), Хаягріва (12), Так'юнг Барва (13), Сенг Донгма (14)!
 
-А також: Кродхішварі Калі, Кродха Дракпо, Харініца Прамоха, Ціу Марпо,
-Раджа Пехар, Дорджен Дракден, Друбцен Дордже, Ньєнчен Танглха,
-Великий Брахма, Благородний Індра, Щедрий Дзамбала, Дхрітараштра,
-Вірудхака, Вірупака, Вайрашвана, Махадева, Умадеві, Джай Ганеша, Шрі Лакшмі,
-всі Боги, Деви, Наги, Мамо, Якшаси, 72 славхих захисників Дхарми Держателів Традиції Дзогчен,
-Вісім Духовних Свит десяти напрямків і місцеві божества цього світу і всіх існуючих всесвітів!
+А також: Гомадеві, Харініца, Кродха Дракпо, Кродхішварі, Ціу Марпо, Раджа Пехар, Дордже Дракден, Ньєнчен Танглха, Великий Брахма, Благородний Індра, Щедрий Дзамбала,
+Дхрітараштра, Вірудхака, Вірупака, Вайрашвана, Махадева, Умадеві, Джай Ганеша, Шрі Лакшмі, всі Боги, Деви, Наги, Мамо, Якшаси,
+72 славних захисників Дхарми, вісім класів і місцеві божества цього світу і всіх всесвітів!
 
-/stag khyung bar ba/ Takyung Barwa {Fiery Guru Rinpoche form, subdues obstacles with wrathful blaze.}
-/shin je/ Shinje {Lord of Death, associated with the cycle of life and death.}
-/yang dak/ Yangdak {Pure One, embodies purity and enlightenment.}
-/dpal chen du pa/ Palchen Dupa {Glorious Mighty One, a protector with great power.}
-/dorje phur pa/ Dorje Phurpa {Vajra Dagger, a deity wielding the ritual dagger for protection.}
-/ha ya gri va/ Hayagriva {Horse-necked One, a fierce protector with a horse's head.}
-/seng dong ma/ Seng-Dongma {Lion-faced One, a fierce female protector.}
-/tshe ring ma/ Tseringma {Long-life One, associated with longevity and protection.}
-/ma hA kA la/ Mahakala {Great Black One, a fierce protector deity.}
-/dza ra hu la/ Za Rahula {Rahu, a planetary deity associated with eclipses and protection.}
-/ral gcig ma/ Ekajaṭī {One-braided, guards Dzogchen with single eye and phurba.}
-/rdo rje legs pa/ Dorje Lekpa {Vajra Virtue, a protector with vajra qualities.}
-/dur tro lha mo/ Durtro Lhamo {Cemetery Goddess, associated with charnel grounds and protection.}
-/yu sgron ma/ Yudronma {Turquoise Lamp, a protector associated with light and guidance.}
+/stag khyung bar ba/ Takyung Barwa Палаючий Гуру Рінпоче, приборкує перешкоди гнівним полум'ям
+/shin je/ Shinje Володар Смерті, пов'язаний з циклом життя і смерті
+/yang dak/ Yangdak Чистий, втілює чистоту і просвітлення
+/dpal chen du pa/ Palchen Dupa Славний Могутній, захисник з великою силою
+/dorje phur pa/ Dorje Phurpa Ваджрний Кинджал, божество з ритуальним кинджалом для захисту
+/ha ya gri va/ Hayagriva Конеголовий, лютий захисник з головою коня
+/seng dong ma/ Seng-Dongma Левицеголова, люта жіноча захисниця
+/tshe ring ma/ Tseringma Довгого життя, пов'язана з довголіттям і захистом
+/ma hA kA la/ Mahakala Великий Чорний, лютий захисник
+/dza ra hu la/ Za Rahula Раху, планетарне божество з затемненнями і захистом
+/ral gcig ma/ Ekajati Одна коса, охороняє Дзогчен одним оком і phurba
+/rdo rje legs pa/ Dorje Lekpa Ваджрна Доброчесність, захисник з якостями ваджри
+/dur tro lha mo/ Durtro Lhamo Богиня Цвинтарів, пов'язана з чарнел граундами і захистом
+/yu sgron ma/ Yudronma Бірюзова Лампа, захисниця зі світлом і настановами
 
-/lha srin sde brgyad dang mchod pa'i lha mo/ Eight Classes of Gods and Spirits and Offering Deities {Collective worldly and ritual guardians, invoked in Longsal empowerments and torma rites.}
+/go ma de bi/ Богиня воріт, охороняє входи до монастирів і священних місць. Часто зображена з мечем і чашею.
+/ha ri ni tsa/ Гнівна форма Сарасваті, тримає лютню (віна), знищує перешкоди вченням.
+/khro bo drag po/ Кродха Дракпо, Гнівний захисник, еманація Махакали. Лютий, чорний, з вогняним волоссям, тримає phurba. Приборкує демонів.
+/khro mo dbang mo/ Кродхішварі, Гнівна богиня, форма Ваджрайогіні. Чорна, одна обличчя, дві руки, тримає кривий ніж і чашу-череп. Очищує гнів.
+/rtsi'u dmar po/ Ціу Марпо, Світський захисник, цар духів. Червоний воїн на коні, зі списом. Один з 5 царів духів Пехара.
+/rdo rje grags ldan/ Дордже Дракден, Міністр Пехара, пророк. Тримає дзеркало, їде на леві. Передає пророцтва.
+/gnyan chen thang lha/ Гірський бог, локальний захисник. На коні, з кришталевими чотками. Охороняє Тибетське плато.
+/tshangs pa chen po/ Бог-творець, небесний захисник. Чотирилиций.
+/dbang po/ Цар богів, захисник. На слоні Айравата, з ваджрою.
+/dzam bha la/ Щедрий Дзамбала. Жовтий, тримає мангуста, що випльовує коштовності.
+/yul 'khor srung/ (схід) Дхрітараштра. Цар гандхарвів, один з 4 Великих Царів. Білий, грає на лютні. Охороняє схід.
+/'phags skyes po/ (південь) Вірудхака. Цар кумбханд, один з 4 Великих Царів. Синій, з мечем. Охороняє південь.
+/spyan mi bzang/ (захід). Вірупака. Цар нагів, один з 4 Великих Царів. Червоний, зі змією і ступою. Охороняє захід.
+/rnam thos sras/ (північ). Вайрашвана. Жовтий, з прапором перемоги. Охороняє північ.
+/lha chen po/ Maheśvara Шива, вищий бог, Махадев. Триокий, з тризубом. Часто приборканий.
+/uma lha mo/ Умадеві, Парваті, дружина Шиви. Біла, з лотосом. М’яка форма.
+/tshogs bdag/ Джай Ганеша. Ганеша, усувач перешкод. Слоноголовий, з модакою.
+/dpal ldan lha mo/ Шрі Лакшмі Палден Лхамо. Богиня процвітання. На лотосі, з коштовностями.
 
-/lha srin sde brgyad/ Eight Classes of Gods and Spirits {Nāgas, yakṣas, etc., bound for comprehensive protection in terma revelations.}
+/lha srin sde brgyad/ Вісім класів богів і духів
+
 /zhing skyong/ Kṣetrapālas {Field protectors, guard sacred sites like Uḍḍiyāna in luminous mandalas.}
 /mchod pa'i lha mo/ Offering Goddesses {Auxiliary Ḍākinīs, present tormas in ritual offerings.}
 /rdo rje'i sku mched/ Vajra Brothers and Sisters {Retinue upholding sacred commands in Yangti practices.}
