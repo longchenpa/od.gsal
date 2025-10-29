@@ -1,4 +1,4 @@
-@#/_/klong chen 'od gsal mkan' 'gro snying thig/ rdo rje'i glu/
+@#/_/klong chen 'od gsal mkan' 'gro snying thig/ rdo rje'i glu/ Пісня Ваджра
 
 A A A
 
@@ -31,7 +31,7 @@ RA     :      :      :      RA     :      RA     :      :      :      :      :  
 
 A A A
 
-@#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ nyi lza kha sbyor/
+@#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ nyi lza kha sbyor/ Ньїда Кхаджор
 
 e ma ke ri ka ri
 mas ta bha li bha li
@@ -100,7 +100,7 @@ a a
 ma ma
 ra ra
 
-@#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ yi ge med pa/
+@#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ yi ge med pa/ Їге Медпа
 
 yi ge med pa'i rgyud chen po zhes bya ba bzhugs/
 
