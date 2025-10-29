@@ -14,7 +14,7 @@ HA RI NI SA PU TRA SI RI BRU NI RAKSHA RAKSHA LAM RUNG NI - Щоб оживит�
 HA RI NI SA CHOGA KUN ZLOG ZLOG - Щоб відбити всі перешкоди
 TRI U TSA TA YA PHAT - Для відсічі ворогам і загороджувальним силам
 
-@#/_/klong chen 'od gsal snying thig/ rdo rje gsung/
+@#/_/klong chen 'od gsal snying thig/ rdo rje gsung/ Ваджрні Склади
 
 /rgya gar gyi skad/
 
@@ -188,7 +188,7 @@ PHEM: Руйнування.
 PHEIM: Очищення.
 TRAM: Насіння Ратнасабхави.
 
-@#/_/klong chen 'od gsal snying thig/ sngags kyi mchod pa/
+@#/_/klong chen 'od gsal snying thig/ sngags kyi mchod pa/ Ваджрні Слова
 
 Просвітлення:
 DHARMA: Вогнестійкі істини основи.
@@ -301,7 +301,7 @@ TRAG: Коза; жертва.
 TSE: Життя; час.
 UCISHTA: Залишки; трансгресія.
 
-@#/_/klong chen 'od gsal mkan' 'gro snying thig/ klong chen nyer lnga'i snying po/
+@#/_/klong chen 'od gsal mkan' 'gro snying thig/ klong chen nyer lnga'i snying po/ 25 Тіглє Самантабхадри
 
 karma raksha ghi ham ti
 bhe ga ra na so ghadlim
