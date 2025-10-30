@@ -485,9 +485,9 @@ VI) /dgon mdzod/ Клас 6: Скарбниця
 
 Каталог текстів: $ cat * | grep "\@\#\/_\/" | sort | cut -c5-
 
-Дивіться у файлі: phyogs.bsgrigs.txt
+Постійне посилання твору: https://osal.longchenpa.guru/
 
-@#/_/klong chen 'od gsal snying thig/ rab gsal nyi 'od rnam par snang ba'i rgyan/ Осяйна Окраса Сяючого Сонячного Світла
+@#/_/klong chen snying thig/ rab gsal nyi 'od rnam par snang ba'i rgyan/ Осяйна Окраса Сяючого Сонячного Світла
 
 Каталог Серцевої Есенції Неосяжного Простору Джигме Лосала Озера
 
