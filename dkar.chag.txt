@@ -434,56 +434,7 @@ sku thang/ kun tu bzang po/
          +-------------------------------------------------------------------------------------------------------------+
 
 Директорія архіву: $ cat * | grep ") /"
-
-I) /sngon 'gro dang gzhi'i chos/ Клас 1: Попередні практики і фундаментальна Дхарма
-01) //dkar chag/ Індекси
-02) //smon lam/ Молитви
-03) //sngon 'gro/ Попередні практики
-04) //khrus/ Очищення
-05) //dge bsngo/ Посвяти
-06) //rnam thar/ Біографії
-07) //lo rgyud/ Історії
-08) //sems phyogs/ Тренування
-II) /gzhung dang lta ba'i chos/ Клас 2: Тексти і філософська Дхарма
-01) //chos mngon pa/ Абхідхарма (I)
-02) //dbu ma/ Мадх'яміка (II)
-03) //rnal 'byor spyod pa/ Йогачара (III)
-04) //tshad ma/ Логіки
-05) //rgyud/ Тантри
-06) ///rdo rje'i glu/ Пісні
-07) //pha rol tu phyin pa/ Параміти
-III) /bskyed rim mchod pa'i cho ga/ Клас 3: Ритуальні підношення та церемонії стадії Зародження
-01) //dbang/ Повноваження
-02) //bskang ba/ Наповнення
-03) //mchod pa/ Офіри
-04) ///sngags/ Мантри
-05) ///dkyil 'khor/ Мандали
-06) ///tshogs/ Бенкети
-07) ///chod/ Чод
-08) ///sbyin sreg/ Диму
-09) //sgrub thabs/ Садхани
-10) ///lha dand lha srung/ Деви і Дхармапали
-11) ///bka' brgyad/ Каг'є
-12) ///zhi khro/ Шитро
-13) ///tshe sgrub/ Довге життя
-16) //phyi bla ma rnal 'byor/ Зовнішня гуру-йога
-17) //bla ma rnal 'byor/ Внутрішня гуру-йога
-IV) /rdzogs rim/ Клас 4: Практики стадії завершення
-01) //'pho ba/ Пхова
-02) //gtum mo/ Тумо
-03) //rtsa rlung/ Цалунг
-04) //nang gsang rnal 'byor/ Секретна гуру-йога
-V) /rdzogs chen gyi nyams len/ Клас 5: Практики остаточного довершення
-01) //sems sde'i rnal 'byor bzhi/ Чотири йоги мислення
-02) //khregs chod/ Трекчо
-03) //thod rgal/ Тогал
-04) //'od gsal/ Ясне світло
-05) //bar do/ Бардо
-06) //yang ti/ Янгті
-VI) /dgon mdzod/ Клас 6: Скарбниця
-1) //sku thang/ Тханки
-
-Каталог текстів: $ cat * | grep "\@\#\/_\/" | sort | cut -c5-
+Каталог текстів:   $ cat * | grep "\@\#\/_\/" | sort | cut -c5-
 
 Постійне посилання твору: https://osal.longchenpa.guru/
 
